@@ -1,255 +1,810 @@
-Snap Date,Dep Date,Return Date,Dep time,Dep Time,Dep Duration,From,Back time,Back Comp,Stops,Back Time,Back Duration,Back Arrival,From,Stops,Landing,Price
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$141,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
-2025-03-02,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard,Expedia
+Snap Date,Dep Date,Return Date,Dep time,Dep Time,Dep Duration,From,Back time,Back Comp,Stops,Back Duration,Back Arrival,Stops,Landing,Price
+2025-03-02 18:35:14,2025-03-03,2025-03-04,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$116,Economy,eDreams
+2025-03-02 18:35:14,2025-03-03,2025-03-04,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$115,Economy,eDreams
+2025-03-02 18:35:14,2025-03-03,2025-03-04,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,5:25 pm – 5:30 pm,Vueling,nonstop,1h 05m,ORY,LGW,$129,Economy,eDreams
+2025-03-02 18:35:14,2025-03-03,2025-03-04,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$116,Economy,eDreams
+2025-03-02 18:35:14,2025-03-03,2025-03-04,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,5:25 pm – 5:30 pm,Vueling,nonstop,1h 05m,ORY,LGW,$129,Economy,eDreams
+2025-03-02 18:35:14,2025-03-03,2025-03-04,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,3:15 pm – 3:25 pm,Vueling,nonstop,1h 10m,ORY,LGW,$129,Economy,eDreams
+2025-03-02 18:35:14,2025-03-03,2025-03-04,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,1:10 pm – 1:20 pm,Vueling,nonstop,1h 10m,ORY,LGW,$129,Economy,eDreams
+2025-03-02 18:35:14,2025-03-03,2025-03-04,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$115,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-04,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,4:40 pm – 4:45 pm,easyJet,nonstop,1h 05m,CDG,LGW,$130,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-04,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,3:15 pm – 3:25 pm,Vueling,nonstop,1h 10m,ORY,LGW,$129,Economy,eDreams
+2025-03-02 18:35:14,2025-03-03,2025-03-04,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,1:10 pm – 1:20 pm,Vueling,nonstop,1h 10m,ORY,LGW,$129,Economy,eDreams
+2025-03-02 18:35:14,2025-03-03,2025-03-04,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$123,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-04,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,4:00 pm – 4:15 pm,easyJet,nonstop,1h 15m,CDG,LTN,$118,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-04,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$115,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-04,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,10:15 am – 10:35 am,easyJet,nonstop,1h 20m,CDG,LTN,$115,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$139,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,10:15 am – 10:35 am,easyJet,nonstop,1h 20m,CDG,LTN,$139,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-04,1:20 pm – 3:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$139,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-04,1:20 pm – 3:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,10:15 am – 10:35 am,easyJet,nonstop,1h 20m,CDG,LTN,$139,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,4:00 pm – 4:15 pm,easyJet,nonstop,1h 15m,CDG,LTN,$142,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-04,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$142,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-04,6:35 pm – 8:55 pm,easyJet,nonstop,1h 20m,LTN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$142,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-04,1:20 pm – 3:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,4:00 pm – 4:15 pm,easyJet,nonstop,1h 15m,CDG,LTN,$142,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-04,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$142,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-04,1:20 pm – 3:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$143,"Standard, Economy",Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-04,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,10:15 am – 10:35 am,easyJet,nonstop,1h 20m,CDG,LTN,$142,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-04,6:35 pm – 8:55 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$146,"Standard, Economy",eDreams
+2025-03-02 18:35:14,2025-03-03,2025-03-04,6:35 pm – 8:55 pm,easyJet,nonstop,1h 20m,LTN,CDG,10:15 am – 10:35 am,easyJet,nonstop,1h 20m,CDG,LTN,$142,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-04,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,4:00 pm – 4:15 pm,easyJet,nonstop,1h 15m,CDG,LTN,$144,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-04,6:35 pm – 8:55 pm,easyJet,nonstop,1h 20m,LTN,CDG,4:00 pm – 4:15 pm,easyJet,nonstop,1h 15m,CDG,LTN,$144,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$147,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-04,1:20 pm – 3:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$147,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-04,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,4:40 pm – 4:45 pm,easyJet,nonstop,1h 05m,CDG,LGW,$148,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-04,6:10 pm – 8:30 pm,easyJet,nonstop,1h 20m,LGW,CDG,10:15 am – 10:35 am,easyJet,nonstop,1h 20m,CDG,LTN,$148,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-04,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$150,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-04,6:35 pm – 8:55 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$150,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-04,6:10 pm – 8:30 pm,easyJet,nonstop,1h 20m,LGW,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$152,"Standard, Economy",Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,4:40 pm – 4:45 pm,easyJet,nonstop,1h 05m,CDG,LGW,$154,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-04,1:20 pm – 3:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,3:15 pm – 3:25 pm,Vueling,nonstop,1h 10m,ORY,LGW,$157,"Standard, Economy",eDreams
+2025-03-02 18:35:14,2025-03-03,2025-03-04,6:10 pm – 8:30 pm,easyJet,nonstop,1h 20m,LGW,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$156,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-04,1:20 pm – 3:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,1:10 pm – 1:20 pm,Vueling,nonstop,1h 10m,ORY,LGW,$157,"Standard, Economy",eDreams
+2025-03-02 18:35:14,2025-03-03,2025-03-04,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,4:40 pm – 4:45 pm,easyJet,nonstop,1h 05m,CDG,LGW,$156,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-04,6:35 pm – 8:55 pm,easyJet,nonstop,1h 20m,LTN,CDG,3:15 pm – 3:25 pm,Vueling,nonstop,1h 10m,ORY,LGW,$160,"Standard, Economy",Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-04,6:10 pm – 8:30 pm,easyJet,nonstop,1h 20m,LGW,CDG,4:40 pm – 4:45 pm,easyJet,nonstop,1h 05m,CDG,LGW,$163,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-04,6:35 pm – 8:55 pm,easyJet,nonstop,1h 20m,LTN,CDG,1:10 pm – 1:20 pm,Vueling,nonstop,1h 10m,ORY,LGW,$160,"Standard, Economy",Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-04,1:20 pm – 3:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,4:40 pm – 4:45 pm,easyJet,nonstop,1h 05m,CDG,LGW,$166,Standard,Trip.com
+2025-03-02 18:35:14,2025-03-03,2025-03-04,6:10 pm – 8:30 pm,easyJet,nonstop,1h 20m,LGW,CDG,5:25 pm – 5:30 pm,Vueling,nonstop,1h 05m,ORY,LGW,$166,"Standard, Economy",Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-04,6:35 pm – 8:55 pm,easyJet,nonstop,1h 20m,LTN,CDG,4:40 pm – 4:45 pm,easyJet,nonstop,1h 05m,CDG,LGW,$168,Standard,Trip.com
+2025-03-02 18:35:14,2025-03-03,2025-03-04,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$160,"Standard, Economy",Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-04,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$164,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-04,6:10 pm – 8:30 pm,easyJet,nonstop,1h 20m,LGW,CDG,3:15 pm – 3:25 pm,Vueling,nonstop,1h 10m,ORY,LGW,$166,"Standard, Economy",Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-04,7:05 am – 9:25 am,easyJet,nonstop,1h 20m,LGW,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$166,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-04,6:10 pm – 8:30 pm,easyJet,nonstop,1h 20m,LGW,CDG,1:10 pm – 1:20 pm,Vueling,nonstop,1h 10m,ORY,LGW,$166,"Standard, Economy",Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-04,7:05 am – 9:25 am,easyJet,nonstop,1h 20m,LGW,CDG,4:40 pm – 4:45 pm,easyJet,nonstop,1h 05m,CDG,LGW,$172,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-04,7:05 am – 9:25 am,easyJet,nonstop,1h 20m,LGW,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$161,"Standard, Economy",Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,9:45 pm – 10:00 pm,easyJet,nonstop,1h 15m,CDG,LTN,$152,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-04,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,5:25 pm – 5:30 pm,Vueling,nonstop,1h 05m,ORY,LGW,$174,"Standard, Economy",Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-04,6:10 pm – 8:30 pm,easyJet,nonstop,1h 20m,LGW,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$161,Standard,Trip.com
+2025-03-02 18:35:14,2025-03-03,2025-03-04,7:05 am – 9:25 am,easyJet,nonstop,1h 20m,LGW,CDG,5:25 pm – 5:30 pm,Vueling,nonstop,1h 05m,ORY,LGW,$175,"Standard, Economy",Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-04,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$175,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-04,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$170,"Standard, Economy",Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-04,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,4:40 pm – 4:45 pm,easyJet,nonstop,1h 05m,CDG,LGW,$181,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-04,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,5:25 pm – 5:30 pm,Vueling,nonstop,1h 05m,ORY,LGW,$184,"Standard, Economy",Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-04,6:10 pm – 8:30 pm,easyJet,nonstop,1h 20m,LGW,CDG,4:00 pm – 4:15 pm,easyJet,nonstop,1h 15m,CDG,LTN,$163,Standard,Trip.com
+2025-03-02 18:35:14,2025-03-03,2025-03-04,8:15 am – 10:35 am,easyJet,nonstop,1h 20m,LGW,CDG,4:40 pm – 4:45 pm,easyJet,nonstop,1h 05m,CDG,LGW,$179,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-04,8:15 am – 10:35 am,easyJet,nonstop,1h 20m,LGW,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$172,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-04,8:15 am – 10:35 am,easyJet,nonstop,1h 20m,LGW,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$168,"Standard, Economy",Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-04,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,9:45 pm – 10:00 pm,easyJet,nonstop,1h 15m,CDG,LTN,$147,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-04,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,3:15 pm – 3:25 pm,Vueling,nonstop,1h 10m,ORY,LGW,$174,"Standard, Economy",Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-04,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$169,Standard,Trip.com
+2025-03-02 18:35:14,2025-03-03,2025-03-04,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,1:10 pm – 1:20 pm,Vueling,nonstop,1h 10m,ORY,LGW,$174,"Standard, Economy",Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-04,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,4:00 pm – 4:15 pm,easyJet,nonstop,1h 15m,CDG,LTN,$171,Standard,Trip.com
+2025-03-02 18:35:14,2025-03-03,2025-03-04,8:15 am – 10:35 am,easyJet,nonstop,1h 20m,LGW,CDG,5:25 pm – 5:30 pm,Vueling,nonstop,1h 05m,ORY,LGW,$182,"Standard, Economy",Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-04,1:20 pm – 3:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,9:45 pm – 10:00 pm,easyJet,nonstop,1h 15m,CDG,LTN,$152,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-04,7:05 am – 9:25 am,easyJet,nonstop,1h 20m,LGW,CDG,3:15 pm – 3:25 pm,Vueling,nonstop,1h 10m,ORY,LGW,$175,"Standard, Economy",Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-04,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$180,Standard,Trip.com
+2025-03-02 18:35:14,2025-03-03,2025-03-04,7:05 am – 9:25 am,easyJet,nonstop,1h 20m,LGW,CDG,1:10 pm – 1:20 pm,Vueling,nonstop,1h 10m,ORY,LGW,$175,"Standard, Economy",Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-04,7:05 am – 9:25 am,easyJet,nonstop,1h 20m,LGW,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$174,Standard,Booking.com
+2025-03-02 18:35:14,2025-03-03,2025-03-04,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,7:35 pm – 7:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$171,"Economy, Standard",Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-04,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,3:15 pm – 3:25 pm,Vueling,nonstop,1h 10m,ORY,LGW,$184,"Standard, Economy",Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-04,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,1:10 pm – 1:20 pm,Vueling,nonstop,1h 10m,ORY,LGW,$184,"Standard, Economy",Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-04,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$115,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-04,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$123,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-04,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,4:40 pm – 4:45 pm,easyJet,nonstop,1h 05m,CDG,LGW,$130,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-04,8:15 am – 10:35 am,easyJet,nonstop,1h 20m,LGW,CDG,3:15 pm – 3:25 pm,Vueling,nonstop,1h 10m,ORY,LGW,$182,"Standard, Economy",Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-04,8:15 am – 10:35 am,easyJet,nonstop,1h 20m,LGW,CDG,1:10 pm – 1:20 pm,Vueling,nonstop,1h 10m,ORY,LGW,$182,"Standard, Economy",Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-04,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,9:45 pm – 10:00 pm,easyJet,nonstop,1h 15m,CDG,LTN,$155,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-04,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,4:00 pm – 4:15 pm,easyJet,nonstop,1h 15m,CDG,LTN,$118,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-04,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,10:15 am – 10:35 am,easyJet,nonstop,1h 20m,CDG,LTN,$169,Standard,Trip.com
+2025-03-02 18:35:14,2025-03-03,2025-03-04,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$115,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-04,6:35 pm – 8:55 pm,easyJet,nonstop,1h 20m,LTN,CDG,9:45 pm – 10:00 pm,easyJet,nonstop,1h 15m,CDG,LTN,$155,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-04,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,10:15 am – 10:35 am,easyJet,nonstop,1h 20m,CDG,LTN,$115,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-04,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,4:00 pm – 4:15 pm,easyJet,nonstop,1h 15m,CDG,LTN,$182,Standard,Trip.com
+2025-03-02 18:35:14,2025-03-03,2025-03-04,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$123,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-04,7:05 am – 9:25 am,easyJet,nonstop,1h 20m,LGW,CDG,4:00 pm – 4:15 pm,easyJet,nonstop,1h 15m,CDG,LTN,$177,Standard,Booking.com
+2025-03-02 18:35:14,2025-03-03,2025-03-04,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,4:40 pm – 4:45 pm,easyJet,nonstop,1h 05m,CDG,LGW,$130,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-04,8:15 am – 10:35 am,easyJet,nonstop,1h 20m,LGW,CDG,1:55 pm – 2:10 pm,easyJet,nonstop,1h 15m,CDG,LTN,$180,Standard,Booking.com
+2025-03-02 18:35:14,2025-03-03,2025-03-04,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,4:00 pm – 4:15 pm,easyJet,nonstop,1h 15m,CDG,LTN,$118,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-04,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,10:15 am – 10:35 am,easyJet,nonstop,1h 20m,CDG,LTN,$180,Standard,Trip.com
+2025-03-02 18:35:14,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$131,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-04,7:05 am – 9:25 am,easyJet,nonstop,1h 20m,LGW,CDG,10:15 am – 10:35 am,easyJet,nonstop,1h 20m,CDG,LTN,$174,Standard,Booking.com
+2025-03-02 18:35:14,2025-03-03,2025-03-04,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,5:25 pm – 5:30 pm,Vueling,nonstop,1h 05m,ORY,LGW,$144,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-04,6:10 pm – 8:30 pm,easyJet,nonstop,1h 20m,LGW,CDG,9:45 pm – 10:00 pm,easyJet,nonstop,1h 15m,CDG,LTN,$162,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-04,8:15 am – 10:35 am,easyJet,nonstop,1h 20m,LGW,CDG,4:00 pm – 4:15 pm,easyJet,nonstop,1h 15m,CDG,LTN,$183,Standard,Booking.com
+2025-03-02 18:35:14,2025-03-03,2025-03-04,6:10 pm – 8:30 pm,easyJet,nonstop,1h 20m,LGW,CDG,7:35 pm – 7:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$196,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-05,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$114,Economy,eDreams
+2025-03-02 18:35:14,2025-03-03,2025-03-05,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,7:00 am – 7:10 am,Vueling,nonstop,1h 10m,ORY,LGW,$126,Economy,eDreams
+2025-03-02 18:35:14,2025-03-03,2025-03-05,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$114,Economy,eDreams
+2025-03-02 18:35:14,2025-03-03,2025-03-05,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$133,Economy,eDreams
+2025-03-02 18:35:14,2025-03-03,2025-03-05,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,7:00 am – 7:10 am,Vueling,nonstop,1h 10m,ORY,LGW,$126,Economy,eDreams
+2025-03-02 18:35:14,2025-03-03,2025-03-05,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$127,Economy,eDreams
+2025-03-02 18:35:14,2025-03-03,2025-03-05,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,4:35 pm – 4:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$145,Economy,eDreams
+2025-03-02 18:35:14,2025-03-03,2025-03-05,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,5:35 pm – 5:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$132,Economy,eDreams
+2025-03-02 18:35:14,2025-03-03,2025-03-05,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$133,Economy,eDreams
+2025-03-02 18:35:14,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$142,Economy,eDreams
+2025-03-02 18:35:14,2025-03-03,2025-03-05,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$127,Economy,eDreams
+2025-03-02 18:35:14,2025-03-03,2025-03-05,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,10:05 am – 10:25 am,easyJet,nonstop,1h 20m,CDG,LTN,$127,Economy,eDreams
+2025-03-02 18:35:14,2025-03-03,2025-03-05,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$129,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-05,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,4:35 pm – 4:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$145,Economy,eDreams
+2025-03-02 18:35:14,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:00 am – 7:10 am,Vueling,nonstop,1h 10m,ORY,LGW,$154,Economy,eDreams
+2025-03-02 18:35:14,2025-03-03,2025-03-05,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,5:35 pm – 5:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$128,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-05,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,10:05 am – 10:25 am,easyJet,nonstop,1h 20m,CDG,LTN,$123,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-05,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,7:00 am – 7:10 am,Vueling,nonstop,1h 10m,ORY,LGW,$125,Economy,eDreams
+2025-03-02 18:35:14,2025-03-03,2025-03-05,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$117,Economy,eDreams
+2025-03-02 18:35:14,2025-03-03,2025-03-05,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,5:35 pm – 5:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$134,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-05,1:20 pm – 3:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$134,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$158,Economy,Mytrip
+2025-03-02 18:35:14,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$134,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-05,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-05,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,10:05 am – 10:25 am,easyJet,nonstop,1h 20m,CDG,LTN,$129,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-05,6:35 pm – 8:55 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-05,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$118,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-05,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$123,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-05,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$122,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,4:35 pm – 4:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$154,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-05,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:00 am – 7:10 am,Vueling,nonstop,1h 10m,ORY,LGW,$135,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-05,1:20 pm – 3:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,10:05 am – 10:25 am,easyJet,nonstop,1h 20m,CDG,LTN,$134,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-05,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,4:35 pm – 4:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$140,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-05,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,5:35 pm – 5:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$116,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-05,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,5:35 pm – 5:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$142,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-05,6:35 pm – 8:55 pm,easyJet,nonstop,1h 20m,LTN,CDG,5:35 pm – 5:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$142,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,4:35 pm – 4:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$154,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-05,1:20 pm – 3:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$128,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,5:35 pm – 5:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$139,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-05,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,10:05 am – 10:25 am,easyJet,nonstop,1h 20m,CDG,LTN,$136,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-05,6:10 pm – 8:30 pm,easyJet,nonstop,1h 20m,LGW,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$150,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-05,6:35 pm – 8:55 pm,easyJet,nonstop,1h 20m,LTN,CDG,10:05 am – 10:25 am,easyJet,nonstop,1h 20m,CDG,LTN,$136,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-05,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,10:05 am – 10:25 am,easyJet,nonstop,1h 20m,CDG,LTN,$111,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,10:05 am – 10:25 am,easyJet,nonstop,1h 20m,CDG,LTN,$134,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-05,1:20 pm – 3:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:00 am – 7:10 am,Vueling,nonstop,1h 10m,ORY,LGW,$151,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-05,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$135,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-05,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$131,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-05,6:35 pm – 8:55 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$131,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-05,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,7:00 am – 7:10 am,Vueling,nonstop,1h 10m,ORY,LGW,$143,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-05,6:35 pm – 8:55 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:00 am – 7:10 am,Vueling,nonstop,1h 10m,ORY,LGW,$154,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-05,6:10 pm – 8:30 pm,easyJet,nonstop,1h 20m,LGW,CDG,4:35 pm – 4:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$163,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-05,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,4:35 pm – 4:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$148,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-05,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,9:45 pm – 10:00 pm,easyJet,nonstop,1h 15m,CDG,LTN,$124,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-05,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$158,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-05,1:20 pm – 3:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$158,Economy,Mytrip
+2025-03-02 18:35:14,2025-03-03,2025-03-05,6:10 pm – 8:30 pm,easyJet,nonstop,1h 20m,LGW,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$151,Economy,eDreams
+2025-03-02 18:35:14,2025-03-03,2025-03-05,7:05 am – 9:25 am,easyJet,nonstop,1h 20m,LGW,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$159,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-05,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$143,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-05,6:35 pm – 8:55 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$160,Economy,Mytrip
+2025-03-02 18:35:14,2025-03-03,2025-03-05,6:10 pm – 8:30 pm,easyJet,nonstop,1h 20m,LGW,CDG,7:00 am – 7:10 am,Vueling,nonstop,1h 10m,ORY,LGW,$160,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$134,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-05,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$123,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-05,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$118,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,5:35 pm – 5:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$139,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,4:35 pm – 4:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$154,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,10:05 am – 10:25 am,easyJet,nonstop,1h 20m,CDG,LTN,$134,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-05,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,7:35 pm – 7:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$210,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-05,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$135,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-05,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:00 am – 7:10 am,Vueling,nonstop,1h 10m,ORY,LGW,$135,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-05,1:20 pm – 3:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$128,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-05,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,5:35 pm – 5:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$116,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-05,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$131,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-05,6:35 pm – 8:55 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$131,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-05,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,10:05 am – 10:25 am,easyJet,nonstop,1h 20m,CDG,LTN,$111,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-05,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$135,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-05,1:20 pm – 3:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$128,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-05,7:05 am – 9:25 am,easyJet,nonstop,1h 20m,LGW,CDG,7:35 pm – 7:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$212,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-05,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,5:35 pm – 5:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$116,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-05,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,7:35 pm – 7:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$221,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-05,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$131,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-05,8:15 am – 10:35 am,easyJet,nonstop,1h 20m,LGW,CDG,7:35 pm – 7:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$218,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-05,6:35 pm – 8:55 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$131,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-05,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,4:35 pm – 4:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$148,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-05,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,10:05 am – 10:25 am,easyJet,nonstop,1h 20m,CDG,LTN,$111,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-05,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$143,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-05,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,7:00 am – 7:10 am,Iberia,nonstop,1h 10m,ORY,LGW,Operated by Vueling,$140,Economy
+2025-03-02 18:35:14,2025-03-03,2025-03-05,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,7:00 am – 7:10 am,Vueling,nonstop,1h 10m,ORY,LGW,$143,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-05,1:20 pm – 3:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,4:35 pm – 4:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$154,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-05,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,9:45 pm – 10:00 pm,easyJet,nonstop,1h 15m,CDG,LTN,$124,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-05,8:15 am – 10:35 am,easyJet,nonstop,1h 20m,LGW,CDG,9:45 pm – 10:00 pm,easyJet,nonstop,1h 15m,CDG,LTN,$171,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-05,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$118,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-05,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,7:35 pm – 7:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$210,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-05,7:05 am – 9:25 am,easyJet,nonstop,1h 20m,LGW,CDG,7:35 pm – 7:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$212,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-05,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:00 am – 7:10 am,Vueling,nonstop,1h 10m,ORY,LGW,$135,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-05,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,7:35 pm – 7:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$221,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-05,1:20 pm – 3:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$128,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-05,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,5:35 pm – 5:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$116,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-05,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$131,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-05,6:35 pm – 8:55 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$131,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-05,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,10:05 am – 10:25 am,easyJet,nonstop,1h 20m,CDG,LTN,$111,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-05,8:15 am – 10:35 am,easyJet,nonstop,1h 20m,LGW,CDG,7:35 pm – 7:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$218,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-05,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,7:00 am – 7:10 am,Vueling,nonstop,1h 10m,ORY,LGW,$143,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-05,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,9:45 pm – 10:00 pm,easyJet,nonstop,1h 15m,CDG,LTN,$124,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-05,8:15 am – 10:35 am,easyJet,nonstop,1h 20m,LGW,CDG,7:00 am – 7:10 am,Iberia,nonstop,1h 10m,ORY,LGW,Operated by Vueling,$189,"Standard, Basic",Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-05,1:20 pm – 3:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:00 am – 7:10 am,British Airways,nonstop,1h 10m,ORY,LGW,Operated by Vueling,$219,"Standard, Standard Economy",Travelocity
+2025-03-02 18:35:14,2025-03-03,2025-03-05,6:35 pm – 8:55 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:00 am – 7:10 am,British Airways,nonstop,1h 10m,ORY,LGW,Operated by Vueling,$222,"Standard, Standard Economy",Travelocity
+2025-03-02 18:35:14,2025-03-03,2025-03-05,7:05 am – 9:25 am,easyJet,nonstop,1h 20m,LGW,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$147,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-05,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,9:45 pm – 10:00 pm,easyJet,nonstop,1h 15m,CDG,LTN,$124,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-05,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$156,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-05,7:05 am – 9:25 am,easyJet,nonstop,1h 20m,LGW,CDG,7:00 am – 7:10 am,Vueling,nonstop,1h 10m,ORY,LGW,$159,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-05,6:10 pm – 8:30 pm,easyJet,nonstop,1h 20m,LGW,CDG,7:00 am – 7:10 am,British Airways,nonstop,1h 10m,ORY,LGW,Operated by Vueling,$229,"Standard, Standard Economy",Travelocity
+2025-03-02 18:35:14,2025-03-03,2025-03-05,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,7:00 am – 7:10 am,Vueling,nonstop,1h 10m,ORY,LGW,$168,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-05,1:20 pm – 3:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:10 pm – 2:25 pm,British Airways,nonstop,1h 15m,ORY,LHR,Operated by Vueling,$224,"Standard, Standard Economy",Travelocity
+2025-03-02 18:35:14,2025-03-03,2025-03-05,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,7:00 am – 7:10 am,Iberia,nonstop,1h 10m,ORY,LGW,Operated by Vueling,$140,"Economy, Basic"
+2025-03-02 18:35:14,2025-03-03,2025-03-05,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:35 pm – 7:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$192,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-05,6:35 pm – 8:55 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:10 pm – 2:25 pm,British Airways,nonstop,1h 15m,ORY,LHR,Operated by Vueling,$227,"Standard, Standard Economy",Travelocity
+2025-03-02 18:35:14,2025-03-03,2025-03-05,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,9:45 pm – 10:00 pm,easyJet,nonstop,1h 15m,CDG,LTN,$123,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-05,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,7:00 am – 7:10 am,British Airways,nonstop,1h 10m,ORY,LGW,Operated by Vueling,$236,"Standard, Standard Economy",Travelocity
+2025-03-02 18:35:14,2025-03-03,2025-03-06,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$123,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-06,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$122,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-06,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$123,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-06,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,6:15 pm – 6:20 pm,Vueling,nonstop,1h 05m,ORY,LGW,$140,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-06,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,5:40 pm – 5:45 pm,easyJet,nonstop,1h 05m,CDG,LGW,$141,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-06,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,10:05 am – 10:15 am,easyJet,nonstop,1h 10m,CDG,LGW,$135,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-06,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$130,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-06,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,6:15 pm – 6:20 pm,Vueling,nonstop,1h 05m,ORY,LGW,$140,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-06,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,12:05 pm – 12:15 pm,Vueling,nonstop,1h 10m,ORY,LGW,$140,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-06,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,5:40 pm – 5:45 pm,easyJet,nonstop,1h 05m,CDG,LGW,$141,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-06,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,4:35 pm – 4:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$148,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-06,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,9:55 am – 10:15 am,easyJet,nonstop,1h 20m,CDG,LTN,$116,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-06,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,10:05 am – 10:15 am,easyJet,nonstop,1h 10m,CDG,LGW,$125,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-06,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$130,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$152,Economy,Booking.com
+2025-03-02 18:35:14,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,6:15 pm – 6:20 pm,Vueling,nonstop,1h 05m,ORY,LGW,$149,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-06,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,12:05 pm – 12:15 pm,Vueling,nonstop,1h 10m,ORY,LGW,$140,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-06,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,4:35 pm – 4:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$148,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-06,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,9:55 am – 10:15 am,easyJet,nonstop,1h 20m,CDG,LTN,$116,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-06,6:10 pm – 8:30 pm,easyJet,nonstop,1h 20m,LGW,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$143,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$139,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-06,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,9:55 am – 10:15 am,easyJet,nonstop,1h 20m,CDG,LTN,$132,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,12:05 pm – 12:15 pm,Vueling,nonstop,1h 10m,ORY,LGW,$149,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-06,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,5:40 pm – 5:45 pm,easyJet,nonstop,1h 05m,CDG,LGW,$140,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-06,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,6:15 pm – 6:20 pm,Vueling,nonstop,1h 05m,ORY,LGW,$140,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-06,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$129,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,5:40 pm – 5:45 pm,easyJet,nonstop,1h 05m,CDG,LGW,$154,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-06,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,6:15 pm – 6:20 pm,Vueling,nonstop,1h 05m,ORY,LGW,$144,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-06,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,10:05 am – 10:15 am,easyJet,nonstop,1h 10m,CDG,LGW,$124,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-06,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$128,Economy,Trip.com
+2025-03-02 18:35:14,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,5:40 pm – 5:45 pm,easyJet,nonstop,1h 05m,CDG,LGW,$154,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-06,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,6:15 pm – 6:20 pm,Vueling,nonstop,1h 05m,ORY,LGW,$144,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-06,1:20 pm – 3:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,9:55 am – 10:15 am,easyJet,nonstop,1h 20m,CDG,LTN,$138,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,10:05 am – 10:15 am,easyJet,nonstop,1h 10m,CDG,LGW,$147,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-06,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,11:50 am – 12:05 pm,easyJet,nonstop,1h 15m,CDG,LTN,$150,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-06,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$151,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-06,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,9:55 am – 10:15 am,easyJet,nonstop,1h 20m,CDG,LTN,$115,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-06,7:05 am – 9:25 am,easyJet,nonstop,1h 20m,LGW,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$152,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-06,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-06,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$134,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-06,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,9:55 am – 10:15 am,easyJet,nonstop,1h 20m,CDG,LTN,$140,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-06,6:35 pm – 8:55 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-06,6:35 pm – 8:55 pm,easyJet,nonstop,1h 20m,LTN,CDG,9:55 am – 10:15 am,easyJet,nonstop,1h 20m,CDG,LTN,$140,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,9:55 am – 10:15 am,easyJet,nonstop,1h 20m,CDG,LTN,$138,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-06,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,4:35 pm – 4:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$148,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-06,1:20 pm – 3:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,6:15 pm – 6:20 pm,Vueling,nonstop,1h 05m,ORY,LGW,$149,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-06,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$162,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,4:35 pm – 4:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$175,Economy,Mytrip
+2025-03-02 18:35:14,2025-03-03,2025-03-06,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,12:05 pm – 12:15 pm,Vueling,nonstop,1h 10m,ORY,LGW,$144,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-06,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,11:50 am – 12:05 pm,easyJet,nonstop,1h 15m,CDG,LTN,$150,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-06,6:10 pm – 8:30 pm,easyJet,nonstop,1h 20m,LGW,CDG,5:40 pm – 5:45 pm,easyJet,nonstop,1h 05m,CDG,LGW,$163,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-06,6:10 pm – 8:30 pm,easyJet,nonstop,1h 20m,LGW,CDG,10:05 am – 10:15 am,easyJet,nonstop,1h 10m,CDG,LGW,$156,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-06,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,5:40 pm – 5:45 pm,easyJet,nonstop,1h 05m,CDG,LGW,$163,Economy,Mytrip
+2025-03-02 18:35:14,2025-03-03,2025-03-06,1:20 pm – 3:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$151,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-06,8:15 am – 10:35 am,easyJet,nonstop,1h 20m,LGW,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$159,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-06,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,6:15 pm – 6:20 pm,Vueling,nonstop,1h 05m,ORY,LGW,$164,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-06,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,10:05 am – 10:15 am,easyJet,nonstop,1h 10m,CDG,LGW,$158,Economy,Mytrip
+2025-03-02 18:35:14,2025-03-03,2025-03-06,6:35 pm – 8:55 pm,easyJet,nonstop,1h 20m,LTN,CDG,6:15 pm – 6:20 pm,Vueling,nonstop,1h 05m,ORY,LGW,$164,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-06,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$154,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-06,6:35 pm – 8:55 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$154,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-06,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,2:40 pm – 2:55 pm,easyJet,nonstop,1h 15m,CDG,LTN,$183,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-06,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,10:05 am – 10:15 am,easyJet,nonstop,1h 10m,CDG,LGW,$125,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-06,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,9:25 pm – 9:40 pm,easyJet,nonstop,1h 15m,CDG,LTN,$163,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-06,6:35 pm – 8:55 pm,easyJet,nonstop,1h 20m,LTN,CDG,9:25 pm – 9:40 pm,easyJet,nonstop,1h 15m,CDG,LTN,$163,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-06,8:15 am – 10:35 am,easyJet,nonstop,1h 20m,LGW,CDG,9:55 am – 10:15 am,easyJet,nonstop,1h 20m,CDG,LTN,$178,Standard,Mytrip
+2025-03-02 18:35:14,2025-03-03,2025-03-06,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$129,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-06,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,9:55 am – 10:15 am,easyJet,nonstop,1h 20m,CDG,LTN,$116,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,6:15 pm – 6:20 pm,Vueling,nonstop,1h 05m,ORY,LGW,$149,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$139,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-06,1:20 pm – 3:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$134,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,10:05 am – 10:15 am,easyJet,nonstop,1h 10m,CDG,LGW,$147,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,5:40 pm – 5:45 pm,easyJet,nonstop,1h 05m,CDG,LGW,$154,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-06,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-06,6:35 pm – 8:55 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,12:05 pm – 12:15 pm,Vueling,nonstop,1h 10m,ORY,LGW,$149,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-06,6:35 pm – 8:55 pm,easyJet,nonstop,1h 20m,LTN,CDG,9:25 pm – 9:40 pm,easyJet,nonstop,1h 15m,CDG,LTN,$163,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-06,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,9:55 am – 10:15 am,easyJet,nonstop,1h 20m,CDG,LTN,$116,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-06,8:15 am – 10:35 am,easyJet,nonstop,1h 20m,LGW,CDG,9:55 am – 10:15 am,easyJet,nonstop,1h 20m,CDG,LTN,$178,Standard,Mytrip
+2025-03-02 18:35:14,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,6:15 pm – 6:20 pm,Vueling,nonstop,1h 05m,ORY,LGW,$149,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-06,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$129,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-06,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,9:10 pm – 9:15 pm,easyJet,nonstop,1h 05m,CDG,LGW,$164,"Economy, Standard",Trip.com
+2025-03-02 18:35:14,2025-03-03,2025-03-06,1:20 pm – 3:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$134,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$139,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,10:05 am – 10:15 am,easyJet,nonstop,1h 10m,CDG,LGW,$147,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,5:40 pm – 5:45 pm,easyJet,nonstop,1h 05m,CDG,LGW,$154,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-06,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,12:05 pm – 12:15 pm,Vueling,nonstop,1h 10m,ORY,LGW,$149,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-06,6:35 pm – 8:55 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$136,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-06,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,10:05 am – 10:15 am,easyJet,nonstop,1h 10m,CDG,LGW,$124,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,9:55 am – 10:15 am,easyJet,nonstop,1h 20m,CDG,LTN,$138,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-06,1:20 pm – 3:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:40 pm – 2:55 pm,easyJet,nonstop,1h 15m,CDG,LTN,$180,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-06,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,9:55 am – 10:15 am,easyJet,nonstop,1h 20m,CDG,LTN,$116,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-06,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,11:50 am – 12:05 pm,easyJet,nonstop,1h 15m,CDG,LTN,$180,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-06,7:05 am – 9:25 am,easyJet,nonstop,1h 20m,LGW,CDG,11:50 am – 12:05 pm,easyJet,nonstop,1h 15m,CDG,LTN,$181,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-06,1:20 pm – 3:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,9:25 pm – 9:40 pm,easyJet,nonstop,1h 15m,CDG,LTN,$160,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-06,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,10:05 am – 10:15 am,easyJet,nonstop,1h 10m,CDG,LGW,$125,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-06,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,2:40 pm – 2:55 pm,easyJet,nonstop,1h 15m,CDG,LTN,$183,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-06,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,9:10 pm – 9:15 pm,easyJet,nonstop,1h 05m,CDG,LGW,$164,"Economy, Standard",Trip.com
+2025-03-02 18:35:14,2025-03-03,2025-03-06,6:35 pm – 8:55 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:40 pm – 2:55 pm,easyJet,nonstop,1h 15m,CDG,LTN,$183,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-06,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,9:55 am – 10:15 am,easyJet,nonstop,1h 20m,CDG,LTN,$116,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-06,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,9:25 pm – 9:40 pm,easyJet,nonstop,1h 15m,CDG,LTN,$163,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,6:15 pm – 6:20 pm,Vueling,nonstop,1h 05m,ORY,LGW,$149,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-06,6:35 pm – 8:55 pm,easyJet,nonstop,1h 20m,LTN,CDG,9:25 pm – 9:40 pm,easyJet,nonstop,1h 15m,CDG,LTN,$163,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-06,8:15 am – 10:35 am,easyJet,nonstop,1h 20m,LGW,CDG,9:55 am – 10:15 am,easyJet,nonstop,1h 20m,CDG,LTN,$178,Standard,Mytrip
+2025-03-02 18:35:14,2025-03-03,2025-03-06,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,11:50 am – 12:05 pm,easyJet,nonstop,1h 15m,CDG,LTN,$191,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-06,8:15 am – 10:35 am,easyJet,nonstop,1h 20m,LGW,CDG,11:50 am – 12:05 pm,easyJet,nonstop,1h 15m,CDG,LTN,$188,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$139,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-06,6:10 pm – 8:30 pm,easyJet,nonstop,1h 20m,LGW,CDG,9:25 pm – 9:40 pm,easyJet,nonstop,1h 15m,CDG,LTN,$169,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-06,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,12:05 pm – 12:15 pm,Vueling,nonstop,1h 10m,ORY,LGW,$149,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-06,6:10 pm – 8:30 pm,easyJet,nonstop,1h 20m,LGW,CDG,2:40 pm – 2:55 pm,easyJet,nonstop,1h 15m,CDG,LTN,$194,Standard,Trip.com
+2025-03-02 18:35:14,2025-03-03,2025-03-06,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,10:05 am – 10:15 am,easyJet,nonstop,1h 10m,CDG,LGW,$124,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-06,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,6:15 pm – 6:20 pm,Vueling,nonstop,1h 05m,ORY,LGW,$144,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-06,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$134,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-06,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,9:55 am – 10:15 am,easyJet,nonstop,1h 20m,CDG,LTN,$115,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-06,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,9:25 pm – 9:40 pm,easyJet,nonstop,1h 15m,CDG,LTN,$177,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-06,1:20 pm – 3:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,6:15 pm – 6:20 pm,Vueling,nonstop,1h 05m,ORY,LGW,$149,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-06,7:05 am – 9:25 am,easyJet,nonstop,1h 20m,LGW,CDG,9:25 pm – 9:40 pm,easyJet,nonstop,1h 15m,CDG,LTN,$179,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-06,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,12:05 pm – 12:15 pm,Vueling,nonstop,1h 10m,ORY,LGW,$144,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-06,6:10 pm – 8:30 pm,easyJet,nonstop,1h 20m,LGW,CDG,9:10 pm – 9:15 pm,easyJet,nonstop,1h 05m,CDG,LGW,$192,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-07,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$112,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-07,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$122,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-07,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,5:55 pm – 5:55 pm,easyJet,nonstop,1h 00m,CDG,LGW,$141,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-07,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,4:35 pm – 4:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$125,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-07,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,7:20 pm – 7:25 pm,Vueling,nonstop,1h 05m,ORY,LGW,$135,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-07,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$112,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-07,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,5:55 pm – 5:55 pm,easyJet,nonstop,1h 00m,CDG,LGW,$141,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-07,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,1:40 pm – 1:45 pm,easyJet,nonstop,1h 05m,CDG,SEN,$142,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-07,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,4:35 pm – 4:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$135,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-07,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,7:20 pm – 7:25 pm,Vueling,nonstop,1h 05m,ORY,LGW,$135,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-07,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,12:30 pm – 12:40 pm,Vueling,nonstop,1h 10m,ORY,LGW,$135,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-07,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,10:05 am – 10:15 am,easyJet,nonstop,1h 10m,CDG,LGW,$135,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-07,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,2:30 pm – 2:45 pm,easyJet,nonstop,1h 15m,CDG,LTN,$128,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-07,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,1:40 pm – 1:45 pm,easyJet,nonstop,1h 05m,CDG,SEN,$155,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-07,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 pm – 7:25 pm,Vueling,nonstop,1h 05m,ORY,LGW,$156,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-07,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,1:40 pm – 1:45 pm,easyJet,nonstop,1h 05m,CDG,SEN,$142,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-07,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,1:40 pm – 1:45 pm,easyJet,nonstop,1h 05m,CDG,SEN,$142,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-07,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,5:00 pm – 5:15 pm,easyJet,nonstop,1h 15m,CDG,LTN,$134,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-07,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,10:05 am – 10:15 am,easyJet,nonstop,1h 10m,CDG,LGW,$135,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-07,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$152,Economy,Booking.com
+2025-03-02 18:35:14,2025-03-03,2025-03-07,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,2:30 pm – 2:45 pm,easyJet,nonstop,1h 15m,CDG,LTN,$128,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-07,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,7:20 pm – 7:25 pm,Vueling,nonstop,1h 05m,ORY,LGW,$129,Economy,eDreams
+2025-03-02 18:35:14,2025-03-03,2025-03-07,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,5:55 pm – 5:55 pm,easyJet,nonstop,1h 00m,CDG,LGW,$169,Economy,Booking.com
+2025-03-02 18:35:14,2025-03-03,2025-03-07,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$138,Economy,eDreams
+2025-03-02 18:35:14,2025-03-03,2025-03-07,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,4:35 pm – 4:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$164,Economy,Booking.com
+2025-03-02 18:35:14,2025-03-03,2025-03-07,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,12:30 pm – 12:40 pm,Vueling,nonstop,1h 10m,ORY,LGW,$156,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-07,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,5:55 pm – 5:55 pm,easyJet,nonstop,1h 00m,CDG,LGW,$140,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-07,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:30 pm – 2:45 pm,easyJet,nonstop,1h 15m,CDG,LTN,$134,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-07,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,5:00 pm – 5:15 pm,easyJet,nonstop,1h 15m,CDG,LTN,$134,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-07,6:10 pm – 8:30 pm,easyJet,nonstop,1h 20m,LGW,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$143,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-07,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$143,Economy,Mytrip
+2025-03-02 18:35:14,2025-03-03,2025-03-07,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,9:55 am – 10:20 am,easyJet,nonstop,1h 25m,CDG,LTN,$128,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-07,6:10 pm – 8:30 pm,easyJet,nonstop,1h 20m,LGW,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$143,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-07,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,12:30 pm – 12:40 pm,Vueling,nonstop,1h 10m,ORY,LGW,$129,Economy,eDreams
+2025-03-02 18:35:14,2025-03-03,2025-03-07,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:20 pm – 7:25 pm,Vueling,nonstop,1h 05m,ORY,LGW,$151,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-07,1:20 pm – 3:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:30 pm – 2:45 pm,easyJet,nonstop,1h 15m,CDG,LTN,$139,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-07,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$138,Economy,eDreams
+2025-03-02 18:35:14,2025-03-03,2025-03-07,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,10:05 am – 10:15 am,easyJet,nonstop,1h 10m,CDG,LGW,$160,Economy,Mytrip
+2025-03-02 18:35:14,2025-03-03,2025-03-07,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:30 pm – 2:45 pm,easyJet,nonstop,1h 15m,CDG,LTN,$153,Economy,Mytrip
+2025-03-02 18:35:14,2025-03-03,2025-03-07,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,5:55 pm – 5:55 pm,easyJet,nonstop,1h 00m,CDG,LGW,$161,Economy,Mytrip
+2025-03-02 18:35:14,2025-03-03,2025-03-07,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,5:00 pm – 5:15 pm,easyJet,nonstop,1h 15m,CDG,LTN,$140,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-07,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,4:35 pm – 4:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$155,Economy,Mytrip
+2025-03-02 18:35:14,2025-03-03,2025-03-07,1:20 pm – 3:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$148,Economy,Mytrip
+2025-03-02 18:35:14,2025-03-03,2025-03-07,6:10 pm – 8:30 pm,easyJet,nonstop,1h 20m,LGW,CDG,5:55 pm – 5:55 pm,easyJet,nonstop,1h 00m,CDG,LGW,$163,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-07,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,1:40 pm – 1:45 pm,easyJet,nonstop,1h 05m,CDG,SEN,$141,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-07,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,2:30 pm – 2:45 pm,easyJet,nonstop,1h 15m,CDG,LTN,$127,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-07,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,2:30 pm – 2:45 pm,easyJet,nonstop,1h 15m,CDG,LTN,$142,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-07,6:10 pm – 8:30 pm,easyJet,nonstop,1h 20m,LGW,CDG,4:35 pm – 4:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$156,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-07,6:35 pm – 8:55 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:30 pm – 2:45 pm,easyJet,nonstop,1h 15m,CDG,LTN,$142,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-07,1:20 pm – 3:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:20 pm – 7:25 pm,Vueling,nonstop,1h 05m,ORY,LGW,$156,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-07,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,9:55 am – 10:20 am,easyJet,nonstop,1h 25m,CDG,LTN,$128,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-07,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,10:05 am – 10:15 am,easyJet,nonstop,1h 10m,CDG,LGW,$135,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-07,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$150,Economy,Mytrip
+2025-03-02 18:35:14,2025-03-03,2025-03-07,6:35 pm – 8:55 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$150,Economy,Mytrip
+2025-03-02 18:35:14,2025-03-03,2025-03-07,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$151,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-07,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,12:30 pm – 12:40 pm,Vueling,nonstop,1h 10m,ORY,LGW,$151,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-07,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,5:00 pm – 5:15 pm,easyJet,nonstop,1h 15m,CDG,LTN,$159,Economy,Mytrip
+2025-03-02 18:35:14,2025-03-03,2025-03-07,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,7:20 pm – 7:25 pm,Vueling,nonstop,1h 05m,ORY,LGW,$159,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-07,7:05 am – 9:25 am,easyJet,nonstop,1h 20m,LGW,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$152,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-07,1:20 pm – 3:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,5:55 pm – 5:55 pm,easyJet,nonstop,1h 00m,CDG,LGW,$166,Economy,Mytrip
+2025-03-02 18:35:14,2025-03-03,2025-03-07,6:35 pm – 8:55 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:20 pm – 7:25 pm,Vueling,nonstop,1h 05m,ORY,LGW,$159,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-07,1:20 pm – 3:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,5:00 pm – 5:15 pm,easyJet,nonstop,1h 15m,CDG,LTN,$146,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-07,1:20 pm – 3:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,4:35 pm – 4:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$160,Economy,Mytrip
+2025-03-02 18:35:14,2025-03-03,2025-03-07,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$162,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-07,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,9:55 am – 10:20 am,easyJet,nonstop,1h 25m,CDG,LTN,$134,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-07,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,5:00 pm – 5:15 pm,easyJet,nonstop,1h 15m,CDG,LTN,$133,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-07,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,5:55 pm – 5:55 pm,easyJet,nonstop,1h 00m,CDG,LGW,$169,Economy,Mytrip
+2025-03-02 18:35:14,2025-03-03,2025-03-07,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,1:40 pm – 1:45 pm,easyJet,nonstop,1h 05m,CDG,SEN,$162,Economy,Mytrip
+2025-03-02 18:35:14,2025-03-03,2025-03-07,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,10:05 am – 10:15 am,easyJet,nonstop,1h 10m,CDG,LGW,$155,Economy,Mytrip
+2025-03-02 18:35:14,2025-03-03,2025-03-07,6:35 pm – 8:55 pm,easyJet,nonstop,1h 20m,LTN,CDG,5:55 pm – 5:55 pm,easyJet,nonstop,1h 00m,CDG,LGW,$169,Economy,Mytrip
+2025-03-02 18:35:14,2025-03-03,2025-03-07,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,4:35 pm – 4:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$163,Economy,Mytrip
+2025-03-02 18:35:14,2025-03-03,2025-03-07,6:35 pm – 8:55 pm,easyJet,nonstop,1h 20m,LTN,CDG,4:35 pm – 4:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$163,Economy,Mytrip
+2025-03-02 18:35:14,2025-03-03,2025-03-07,6:10 pm – 8:30 pm,easyJet,nonstop,1h 20m,LGW,CDG,10:05 am – 10:15 am,easyJet,nonstop,1h 10m,CDG,LGW,$156,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-07,1:20 pm – 3:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,12:30 pm – 12:40 pm,Vueling,nonstop,1h 10m,ORY,LGW,$156,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-07,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,5:55 pm – 5:55 pm,easyJet,nonstop,1h 00m,CDG,LGW,$171,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-07,7:05 am – 9:25 am,easyJet,nonstop,1h 20m,LGW,CDG,2:30 pm – 2:45 pm,easyJet,nonstop,1h 15m,CDG,LTN,$158,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-07,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,10:05 am – 10:15 am,easyJet,nonstop,1h 10m,CDG,LGW,$164,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-07,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,1:40 pm – 1:45 pm,easyJet,nonstop,1h 05m,CDG,SEN,$172,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-07,7:05 am – 9:25 am,easyJet,nonstop,1h 20m,LGW,CDG,10:05 am – 10:15 am,easyJet,nonstop,1h 10m,CDG,LGW,$166,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-07,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,7:20 pm – 7:25 pm,Vueling,nonstop,1h 05m,ORY,LGW,$173,"Standard, Economy",Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-07,7:05 am – 9:25 am,easyJet,nonstop,1h 20m,LGW,CDG,1:40 pm – 1:45 pm,easyJet,nonstop,1h 05m,CDG,SEN,$173,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-07,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,12:30 pm – 12:40 pm,Vueling,nonstop,1h 10m,ORY,LGW,$173,"Standard, Economy",Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-07,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,10:05 am – 10:15 am,easyJet,nonstop,1h 10m,CDG,LGW,$175,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-07,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,1:40 pm – 1:45 pm,easyJet,nonstop,1h 05m,CDG,SEN,$183,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-07,6:10 pm – 8:30 pm,easyJet,nonstop,1h 20m,LGW,CDG,9:55 am – 10:20 am,easyJet,nonstop,1h 25m,CDG,LTN,$148,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-07,8:15 am – 10:35 am,easyJet,nonstop,1h 20m,LGW,CDG,2:30 pm – 2:45 pm,easyJet,nonstop,1h 15m,CDG,LTN,$164,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-07,8:15 am – 10:35 am,easyJet,nonstop,1h 20m,LGW,CDG,10:05 am – 10:15 am,easyJet,nonstop,1h 10m,CDG,LGW,$172,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-07,7:05 am – 9:25 am,easyJet,nonstop,1h 20m,LGW,CDG,5:00 pm – 5:15 pm,easyJet,nonstop,1h 15m,CDG,LTN,$164,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-07,8:15 am – 10:35 am,easyJet,nonstop,1h 20m,LGW,CDG,1:40 pm – 1:45 pm,easyJet,nonstop,1h 05m,CDG,SEN,$180,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-07,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,10:40 pm – 10:55 pm,easyJet,nonstop,1h 15m,CDG,LTN,$142,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-07,8:15 am – 10:35 am,easyJet,nonstop,1h 20m,LGW,CDG,5:00 pm – 5:15 pm,easyJet,nonstop,1h 15m,CDG,LTN,$171,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-07,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,9:10 pm – 9:15 pm,easyJet,nonstop,1h 05m,CDG,LGW,$167,"Economy, Standard",Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-07,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,9:55 am – 10:20 am,easyJet,nonstop,1h 25m,CDG,LTN,$156,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-07,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$112,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-07,1:20 pm – 3:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,10:40 pm – 10:55 pm,easyJet,nonstop,1h 15m,CDG,LTN,$147,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-07,6:10 pm – 8:30 pm,easyJet,nonstop,1h 20m,LGW,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$175,"Standard, Economy",Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-07,7:05 am – 9:25 am,easyJet,nonstop,1h 20m,LGW,CDG,9:55 am – 10:20 am,easyJet,nonstop,1h 25m,CDG,LTN,$158,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-07,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,4:35 pm – 4:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$125,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-07,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,2:30 pm – 2:45 pm,easyJet,nonstop,1h 15m,CDG,LTN,$180,Standard,Mytrip
+2025-03-02 18:35:14,2025-03-03,2025-03-07,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,9:10 pm – 9:15 pm,easyJet,nonstop,1h 05m,CDG,LGW,$167,"Economy, Standard",Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-07,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,10:40 pm – 10:55 pm,easyJet,nonstop,1h 15m,CDG,LTN,$150,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-07,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$112,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-07,6:35 pm – 8:55 pm,easyJet,nonstop,1h 20m,LTN,CDG,10:40 pm – 10:55 pm,easyJet,nonstop,1h 15m,CDG,LTN,$150,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-07,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,9:55 am – 10:20 am,easyJet,nonstop,1h 25m,CDG,LTN,$167,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-07,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,5:00 pm – 5:15 pm,easyJet,nonstop,1h 15m,CDG,LTN,$176,Standard,Mytrip
+2025-03-02 18:35:14,2025-03-03,2025-03-08,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,7:20 pm – 7:25 pm,Vueling,nonstop,1h 05m,ORY,LGW,$134,Economy,Booking.com
+2025-03-02 18:35:14,2025-03-03,2025-03-08,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,2:10 pm – 2:25 pm,easyJet,nonstop,1h 15m,CDG,LTN,$108,Economy
+2025-03-02 18:35:14,2025-03-03,2025-03-08,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$122,Economy,Booking.com
+2025-03-02 18:35:14,2025-03-03,2025-03-08,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,7:20 pm – 7:25 pm,Vueling,nonstop,1h 05m,ORY,LGW,$134,Economy,Booking.com
+2025-03-02 18:35:14,2025-03-03,2025-03-08,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,11:50 am – 12:00 pm,Vueling,nonstop,1h 10m,ORY,LGW,$134,Economy,Booking.com
+2025-03-02 18:35:14,2025-03-03,2025-03-08,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,3:10 pm – 3:20 pm,Vueling,nonstop,1h 10m,ORY,LGW,$134,Economy,Booking.com
+2025-03-02 18:35:14,2025-03-03,2025-03-08,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$122,Economy,Booking.com
+2025-03-02 18:35:14,2025-03-03,2025-03-08,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,11:50 am – 12:00 pm,Vueling,nonstop,1h 10m,ORY,LGW,$134,Economy,Booking.com
+2025-03-02 18:35:14,2025-03-03,2025-03-08,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,3:10 pm – 3:20 pm,Vueling,nonstop,1h 10m,ORY,LGW,$134,Economy,Booking.com
+2025-03-02 18:35:14,2025-03-03,2025-03-08,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:10 pm – 2:25 pm,easyJet,nonstop,1h 15m,CDG,LTN,$129,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-08,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,4:50 pm – 5:05 pm,easyJet,nonstop,1h 15m,CDG,LTN,$134,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-08,1:20 pm – 3:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:10 pm – 2:25 pm,easyJet,nonstop,1h 15m,CDG,LTN,$134,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-08,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,7:20 pm – 7:25 pm,Vueling,nonstop,1h 05m,ORY,LGW,$134,Economy,Booking.com
+2025-03-02 18:35:14,2025-03-03,2025-03-08,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$120,Economy,Trip.com
+2025-03-02 18:35:14,2025-03-03,2025-03-08,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,2:10 pm – 2:25 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-08,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,9:55 am – 10:15 am,easyJet,nonstop,1h 20m,CDG,LTN,$129,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-08,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,3:10 pm – 3:20 pm,Vueling,nonstop,1h 10m,ORY,LGW,$134,Economy,Booking.com
+2025-03-02 18:35:14,2025-03-03,2025-03-08,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,11:50 am – 12:00 pm,Vueling,nonstop,1h 10m,ORY,LGW,$134,Economy,Booking.com
+2025-03-02 18:35:14,2025-03-03,2025-03-08,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,2:10 pm – 2:25 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-08,6:35 pm – 8:55 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:10 pm – 2:25 pm,easyJet,nonstop,1h 15m,CDG,LTN,$136,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-08,6:35 pm – 8:55 pm,easyJet,nonstop,1h 20m,LTN,CDG,9:55 am – 10:15 am,easyJet,nonstop,1h 20m,CDG,LTN,$136,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-08,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,9:55 am – 10:15 am,easyJet,nonstop,1h 20m,CDG,LTN,$136,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-08,1:20 pm – 3:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,4:50 pm – 5:05 pm,easyJet,nonstop,1h 15m,CDG,LTN,$139,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-08,6:35 pm – 8:55 pm,easyJet,nonstop,1h 20m,LTN,CDG,4:50 pm – 5:05 pm,easyJet,nonstop,1h 15m,CDG,LTN,$142,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-08,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,4:50 pm – 5:05 pm,easyJet,nonstop,1h 15m,CDG,LTN,$142,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-08,6:10 pm – 8:30 pm,easyJet,nonstop,1h 20m,LGW,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$150,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-08,6:10 pm – 8:30 pm,easyJet,nonstop,1h 20m,LGW,CDG,10:00 am – 10:10 am,easyJet,nonstop,1h 10m,CDG,LGW,$150,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-08,6:10 pm – 8:30 pm,easyJet,nonstop,1h 20m,LGW,CDG,2:45 pm – 2:50 pm,easyJet,nonstop,1h 05m,CDG,LGW,$156,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-08,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$158,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-08,1:20 pm – 3:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,3:10 pm – 3:20 pm,Vueling,nonstop,1h 10m,ORY,LGW,$163,Economy,Gotogate
+2025-03-02 18:35:14,2025-03-03,2025-03-08,7:05 am – 9:25 am,easyJet,nonstop,1h 20m,LGW,CDG,10:00 am – 10:10 am,easyJet,nonstop,1h 10m,CDG,LGW,$159,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-08,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$158,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-08,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,10:00 am – 10:10 am,easyJet,nonstop,1h 10m,CDG,LGW,$158,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-08,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,4:20 pm – 4:45 pm,British Airways,nonstop,1h 25m,CDG,LHR,$136,"Economy, Basic Economy",eDreams
+2025-03-02 18:35:14,2025-03-03,2025-03-08,6:10 pm – 8:30 pm,easyJet,nonstop,1h 20m,LGW,CDG,3:10 pm – 3:20 pm,Vueling,nonstop,1h 10m,ORY,LGW,$159,Economy,Mytrip
+2025-03-02 18:35:14,2025-03-03,2025-03-08,1:20 pm – 3:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:20 pm – 7:25 pm,easyJet,nonstop,1h 05m,CDG,LGW,$168,Economy,Trip.com
+2025-03-02 18:35:14,2025-03-03,2025-03-08,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$155,Economy,Mytrip
+2025-03-02 18:35:14,2025-03-03,2025-03-08,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,2:35 pm – 3:00 pm,British Airways,nonstop,1h 25m,CDG,LHR,$149,Economy,eDreams
+2025-03-02 18:35:14,2025-03-03,2025-03-08,8:15 am – 10:35 am,easyJet,nonstop,1h 20m,LGW,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$166,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-08,8:15 am – 10:35 am,easyJet,nonstop,1h 20m,LGW,CDG,10:00 am – 10:10 am,easyJet,nonstop,1h 10m,CDG,LGW,$166,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-08,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$165,Economy,Mytrip
+2025-03-02 18:35:14,2025-03-03,2025-03-08,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,2:10 pm – 2:25 pm,easyJet,nonstop,1h 15m,CDG,LTN,$158,Standard,Trip.com
+2025-03-02 18:35:14,2025-03-03,2025-03-08,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,11:50 am – 12:00 pm,Vueling,nonstop,1h 10m,ORY,LGW,$167,"Standard, Economy",Mytrip
+2025-03-02 18:35:14,2025-03-03,2025-03-08,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,3:10 pm – 3:20 pm,Vueling,nonstop,1h 10m,ORY,LGW,$167,"Standard, Economy",Mytrip
+2025-03-02 18:35:14,2025-03-03,2025-03-08,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,4:20 pm – 4:45 pm,British Airways,nonstop,1h 25m,CDG,LHR,$134,"Economy, Basic Economy",Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-08,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,7:20 pm – 7:25 pm,easyJet,nonstop,1h 05m,CDG,LGW,$181,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-08,8:15 am – 10:35 am,easyJet,nonstop,1h 20m,LGW,CDG,10:00 am – 10:10 am,easyJet,nonstop,1h 10m,CDG,LGW,$166,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-08,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,11:50 am – 12:00 pm,Vueling,nonstop,1h 10m,ORY,LGW,$167,"Standard, Economy",Mytrip
+2025-03-02 18:35:14,2025-03-03,2025-03-08,8:15 am – 10:35 am,easyJet,nonstop,1h 20m,LGW,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$166,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-08,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,3:10 pm – 3:20 pm,Vueling,nonstop,1h 10m,ORY,LGW,$167,"Standard, Economy",Mytrip
+2025-03-02 18:35:14,2025-03-03,2025-03-08,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,2:45 pm – 2:50 pm,easyJet,nonstop,1h 05m,CDG,LGW,$175,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-08,6:35 pm – 8:55 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:20 pm – 7:25 pm,easyJet,nonstop,1h 05m,CDG,LGW,$171,Standard,Trip.com
+2025-03-02 18:35:14,2025-03-03,2025-03-08,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,2:10 pm – 2:25 pm,easyJet,nonstop,1h 15m,CDG,LTN,$158,Standard,Trip.com
+2025-03-02 18:35:14,2025-03-03,2025-03-08,6:10 pm – 8:30 pm,easyJet,nonstop,1h 20m,LGW,CDG,7:20 pm – 7:25 pm,easyJet,nonstop,1h 05m,CDG,LGW,$173,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-08,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,2:10 pm – 2:25 pm,easyJet,nonstop,1h 15m,CDG,LTN,$169,Standard,Trip.com
+2025-03-02 18:35:14,2025-03-03,2025-03-08,8:15 am – 10:35 am,easyJet,nonstop,1h 20m,LGW,CDG,4:50 pm – 5:05 pm,easyJet,nonstop,1h 15m,CDG,LTN,$164,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-08,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,7:20 pm – 7:25 pm,easyJet,nonstop,1h 05m,CDG,LGW,$181,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-08,8:15 am – 10:35 am,easyJet,nonstop,1h 20m,LGW,CDG,3:10 pm – 3:20 pm,Vueling,nonstop,1h 10m,ORY,LGW,$175,"Standard, Economy",Mytrip
+2025-03-02 18:35:14,2025-03-03,2025-03-08,7:05 am – 9:25 am,easyJet,nonstop,1h 20m,LGW,CDG,7:20 pm – 7:25 pm,easyJet,nonstop,1h 05m,CDG,LGW,$183,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-08,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,4:20 pm – 4:45 pm,British Airways,nonstop,1h 25m,CDG,LHR,$134,"Economy, Basic Economy",Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-08,8:15 am – 10:35 am,easyJet,nonstop,1h 20m,LGW,CDG,2:10 pm – 2:25 pm,easyJet,nonstop,1h 15m,CDG,LTN,$171,Standard,Mytrip
+2025-03-02 18:35:14,2025-03-03,2025-03-08,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,2:45 pm – 2:50 pm,easyJet,nonstop,1h 05m,CDG,LGW,$121,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-08,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,4:50 pm – 5:05 pm,easyJet,nonstop,1h 15m,CDG,LTN,$177,Standard,Trip.com
+2025-03-02 18:35:14,2025-03-03,2025-03-08,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,10:00 am – 10:10 am,easyJet,nonstop,1h 10m,CDG,LGW,$115,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-08,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,7:20 pm – 7:25 pm,easyJet,nonstop,1h 05m,CDG,LGW,$192,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-08,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$115,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-08,8:15 am – 10:35 am,easyJet,nonstop,1h 20m,LGW,CDG,7:20 pm – 7:25 pm,easyJet,nonstop,1h 05m,CDG,LGW,$189,Standard,easyJet
+2025-03-02 18:35:14,2025-03-03,2025-03-08,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,2:10 pm – 2:25 pm,easyJet,nonstop,1h 15m,CDG,LTN,$109,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-08,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,2:45 pm – 2:50 pm,easyJet,nonstop,1h 05m,CDG,LGW,$121,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-08,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:45 pm – 2:50 pm,easyJet,nonstop,1h 05m,CDG,LGW,$143,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-08,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$115,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-08,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,10:00 am – 10:10 am,easyJet,nonstop,1h 10m,CDG,LGW,$137,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-08,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,10:00 am – 10:10 am,easyJet,nonstop,1h 10m,CDG,LGW,$115,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-08,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$137,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-08,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,4:20 pm – 4:45 pm,British Airways,nonstop,1h 25m,CDG,LHR,$136,"Economy, Basic Economy",eDreams
+2025-03-02 18:35:14,2025-03-03,2025-03-08,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,2:10 pm – 2:25 pm,easyJet,nonstop,1h 15m,CDG,LTN,$109,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-08,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,9:55 am – 10:15 am,easyJet,nonstop,1h 20m,CDG,LTN,$109,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-08,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 pm – 7:25 pm,Vueling,nonstop,1h 05m,ORY,LGW,$139,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-08,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,4:50 pm – 5:05 pm,easyJet,nonstop,1h 15m,CDG,LTN,$117,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-08,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$127,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-08,7:25 pm – 9:40 pm,Vueling,nonstop,1h 15m,LGW,ORY,7:20 pm – 7:25 pm,easyJet,nonstop,1h 05m,CDG,LGW,$136,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-08,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,9:55 am – 10:15 am,easyJet,nonstop,1h 20m,CDG,LTN,$109,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-08,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,2:10 pm – 2:25 pm,easyJet,nonstop,1h 15m,CDG,LTN,$131,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-08,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,4:50 pm – 5:05 pm,easyJet,nonstop,1h 15m,CDG,LTN,$117,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-08,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:45 pm – 2:50 pm,easyJet,nonstop,1h 05m,CDG,LGW,$138,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-08,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,3:10 pm – 3:20 pm,Vueling,nonstop,1h 10m,ORY,LGW,$139,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-08,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,9:55 am – 10:15 am,easyJet,nonstop,1h 20m,CDG,LTN,$131,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-08,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,11:50 am – 12:00 pm,Vueling,nonstop,1h 10m,ORY,LGW,$139,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-08,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,10:00 am – 10:10 am,easyJet,nonstop,1h 10m,CDG,LGW,$132,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-08,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:20 pm – 7:25 pm,Vueling,nonstop,1h 05m,ORY,LGW,$134,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-08,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$132,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-08,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,2:45 pm – 2:50 pm,easyJet,nonstop,1h 05m,CDG,LGW,$120,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-08,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,4:20 pm – 4:45 pm,British Airways,nonstop,1h 25m,CDG,LHR,$134,"Economy, Basic Economy",Kiwi.com
+2025-03-02 18:35:14,2025-03-03,2025-03-08,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$114,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-08,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,10:00 am – 10:10 am,easyJet,nonstop,1h 10m,CDG,LGW,$114,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-08,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$122,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-08,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,2:35 pm – 3:00 pm,British Airways,nonstop,1h 25m,CDG,LHR,$149,"Economy, Basic Economy",eDreams
+2025-03-02 18:35:14,2025-03-03,2025-03-08,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,7:20 pm – 7:25 pm,easyJet,nonstop,1h 05m,CDG,LGW,$136,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-03,2025-03-08,1:20 pm – 3:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:20 pm – 7:25 pm,Vueling,nonstop,1h 05m,ORY,LGW,$139,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-08,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,3:10 pm – 3:20 pm,Vueling,nonstop,1h 10m,ORY,LGW,$134,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-08,1:20 pm – 3:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:45 pm – 2:50 pm,easyJet,nonstop,1h 05m,CDG,LGW,$143,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-08,11:20 am – 1:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,11:50 am – 12:00 pm,Vueling,nonstop,1h 10m,ORY,LGW,$134,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-08,11:50 am – 2:00 pm,easyJet,nonstop,1h 10m,SEN,CDG,7:20 pm – 7:25 pm,easyJet,nonstop,1h 05m,CDG,LGW,$158,Standard
+2025-03-02 18:35:14,2025-03-03,2025-03-08,1:20 pm – 3:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$127,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-03,2025-03-08,1:20 pm – 3:40 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$137,Standard
+2025-03-02 18:35:14,2025-03-04,2025-03-05,4:10 pm – 6:25 pm,Vueling,nonstop,1h 15m,LGW,ORY,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$103,Economy,eDreams
+2025-03-02 18:35:14,2025-03-04,2025-03-05,6:45 pm – 9:05 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$99,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-05,6:15 pm – 8:30 pm,Vueling,nonstop,1h 15m,LGW,ORY,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$103,Economy,eDreams
+2025-03-02 18:35:14,2025-03-04,2025-03-05,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$103,Economy,eDreams
+2025-03-02 18:35:14,2025-03-04,2025-03-05,6:45 pm – 9:05 pm,easyJet,nonstop,1h 20m,LTN,CDG,5:35 pm – 5:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$105,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-05,4:10 pm – 6:25 pm,Vueling,nonstop,1h 15m,LGW,ORY,7:00 am – 7:10 am,Vueling,nonstop,1h 10m,ORY,LGW,$116,Economy,eDreams
+2025-03-02 18:35:14,2025-03-04,2025-03-05,6:15 pm – 8:30 pm,Vueling,nonstop,1h 15m,LGW,ORY,7:00 am – 7:10 am,Vueling,nonstop,1h 10m,ORY,LGW,$116,Economy,eDreams
+2025-03-02 18:35:14,2025-03-04,2025-03-05,6:45 pm – 9:05 pm,easyJet,nonstop,1h 20m,LTN,CDG,10:05 am – 10:25 am,easyJet,nonstop,1h 20m,CDG,LTN,$99,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-05,10:50 am – 1:10 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$106,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-05,12:55 pm – 3:15 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$106,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-05,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$113,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-05,6:45 pm – 9:05 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$94,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-04,2025-03-05,4:10 pm – 6:25 pm,Vueling,nonstop,1h 15m,LGW,ORY,5:35 pm – 5:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$114,Economy,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-05,4:10 pm – 6:25 pm,Vueling,nonstop,1h 15m,LGW,ORY,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$104,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-04,2025-03-05,6:15 pm – 8:30 pm,Vueling,nonstop,1h 15m,LGW,ORY,5:35 pm – 5:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$114,Economy,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-05,6:15 pm – 8:30 pm,Vueling,nonstop,1h 15m,LGW,ORY,5:35 pm – 5:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$114,Economy,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-05,6:15 pm – 8:30 pm,Vueling,nonstop,1h 15m,LGW,ORY,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$104,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-04,2025-03-05,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$121,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-05,4:10 pm – 6:25 pm,Vueling,nonstop,1h 15m,LGW,ORY,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$111,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-04,2025-03-05,6:15 pm – 8:30 pm,Vueling,nonstop,1h 15m,LGW,ORY,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$111,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-04,2025-03-05,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$110,Economy,OneTravel
+2025-03-02 18:35:14,2025-03-04,2025-03-05,6:45 pm – 9:05 pm,easyJet,nonstop,1h 20m,LTN,CDG,4:35 pm – 4:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$122,Economy,OneTravel
+2025-03-02 18:35:14,2025-03-04,2025-03-05,10:50 am – 1:10 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$117,Economy,OneTravel
+2025-03-02 18:35:14,2025-03-04,2025-03-05,12:55 pm – 3:15 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$117,Economy,OneTravel
+2025-03-02 18:35:14,2025-03-04,2025-03-05,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,7:00 am – 7:10 am,Vueling,nonstop,1h 10m,ORY,LGW,$116,Economy,eDreams
+2025-03-02 18:35:14,2025-03-04,2025-03-05,10:50 am – 1:10 pm,easyJet,nonstop,1h 20m,LTN,CDG,5:35 pm – 5:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$111,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-05,12:55 pm – 3:15 pm,easyJet,nonstop,1h 20m,LTN,CDG,5:35 pm – 5:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$111,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-05,10:50 am – 1:10 pm,easyJet,nonstop,1h 20m,LTN,CDG,10:05 am – 10:25 am,easyJet,nonstop,1h 20m,CDG,LTN,$106,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-05,12:55 pm – 3:15 pm,easyJet,nonstop,1h 20m,LTN,CDG,10:05 am – 10:25 am,easyJet,nonstop,1h 20m,CDG,LTN,$106,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-05,6:45 pm – 9:05 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:00 am – 7:10 am,Vueling,nonstop,1h 10m,ORY,LGW,$107,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-04,2025-03-05,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,4:35 pm – 4:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$126,Economy,OneTravel
+2025-03-02 18:35:14,2025-03-04,2025-03-05,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$102,Economy,eDreams
+2025-03-02 18:35:14,2025-03-04,2025-03-05,10:50 am – 1:10 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$100,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-04,2025-03-05,12:55 pm – 3:15 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$100,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-04,2025-03-05,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,5:35 pm – 5:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$114,Economy,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-05,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$104,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-04,2025-03-05,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,5:35 pm – 5:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$114,Economy,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-05,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$100,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-04,2025-03-05,4:10 pm – 6:25 pm,Vueling,nonstop,1h 15m,LGW,ORY,10:05 am – 10:25 am,easyJet,nonstop,1h 20m,CDG,LTN,$104,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-04,2025-03-05,6:15 pm – 8:30 pm,Vueling,nonstop,1h 15m,LGW,ORY,10:05 am – 10:25 am,easyJet,nonstop,1h 20m,CDG,LTN,$104,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-04,2025-03-05,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$115,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-05,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$121,Economy,OneTravel
+2025-03-02 18:35:14,2025-03-04,2025-03-05,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$108,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-04,2025-03-05,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$111,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-04,2025-03-05,4:10 pm – 6:25 pm,Vueling,nonstop,1h 15m,LGW,ORY,4:35 pm – 4:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$132,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-04,2025-03-05,6:45 pm – 9:05 pm,easyJet,nonstop,1h 20m,LTN,CDG,9:45 pm – 10:00 pm,easyJet,nonstop,1h 15m,CDG,LTN,$111,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-05,8:15 am – 10:35 am,easyJet,nonstop,1h 20m,LGW,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$138,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-05,4:10 pm – 6:25 pm,Vueling,nonstop,1h 15m,LGW,ORY,9:45 pm – 10:00 pm,easyJet,nonstop,1h 15m,CDG,LTN,$120,Economy,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-05,6:15 pm – 8:30 pm,Vueling,nonstop,1h 15m,LGW,ORY,9:45 pm – 10:00 pm,easyJet,nonstop,1h 15m,CDG,LTN,$120,Economy,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-05,8:15 am – 10:35 am,easyJet,nonstop,1h 20m,LGW,CDG,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$135,Economy,OneTravel
+2025-03-02 18:35:14,2025-03-04,2025-03-05,10:50 am – 1:10 pm,easyJet,nonstop,1h 20m,LTN,CDG,9:45 pm – 10:00 pm,easyJet,nonstop,1h 15m,CDG,LTN,$118,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-05,12:55 pm – 3:15 pm,easyJet,nonstop,1h 20m,LTN,CDG,9:45 pm – 10:00 pm,easyJet,nonstop,1h 15m,CDG,LTN,$118,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-05,8:15 am – 10:35 am,easyJet,nonstop,1h 20m,LGW,CDG,5:35 pm – 5:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$140,Economy,OneTravel
+2025-03-02 18:35:14,2025-03-04,2025-03-05,8:15 am – 10:35 am,easyJet,nonstop,1h 20m,LGW,CDG,10:05 am – 10:25 am,easyJet,nonstop,1h 20m,CDG,LTN,$135,Economy,OneTravel
+2025-03-02 18:35:14,2025-03-04,2025-03-05,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,9:45 pm – 10:00 pm,easyJet,nonstop,1h 15m,CDG,LTN,$121,Economy,OneTravel
+2025-03-02 18:35:14,2025-03-04,2025-03-05,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,9:45 pm – 10:00 pm,easyJet,nonstop,1h 15m,CDG,LTN,$114,Economy,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-05,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,9:45 pm – 10:00 pm,easyJet,nonstop,1h 15m,CDG,LTN,$127,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-05,6:45 pm – 9:05 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:35 pm – 7:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$159,Economy,OneTravel
+2025-03-02 18:35:14,2025-03-04,2025-03-05,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,7:35 pm – 7:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$163,Economy,OneTravel
+2025-03-02 18:35:14,2025-03-04,2025-03-05,6:45 pm – 9:05 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$94,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-04,2025-03-05,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,9:45 pm – 10:00 pm,easyJet,nonstop,1h 15m,CDG,LTN,$127,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-05,6:45 pm – 9:05 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:35 pm – 7:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$159,Economy,OneTravel
+2025-03-02 18:35:14,2025-03-04,2025-03-05,4:10 pm – 6:25 pm,Vueling,nonstop,1h 15m,LGW,ORY,7:35 pm – 7:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$166,Economy,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-05,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,7:35 pm – 7:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$163,Economy,OneTravel
+2025-03-02 18:35:14,2025-03-04,2025-03-05,6:15 pm – 8:30 pm,Vueling,nonstop,1h 15m,LGW,ORY,7:35 pm – 7:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$166,Economy,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-05,10:50 am – 1:10 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:35 pm – 7:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$166,Economy,OneTravel
+2025-03-02 18:35:14,2025-03-04,2025-03-05,6:45 pm – 9:05 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$94,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-04,2025-03-05,12:55 pm – 3:15 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:35 pm – 7:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$166,Economy,OneTravel
+2025-03-02 18:35:14,2025-03-04,2025-03-05,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,7:35 pm – 7:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$166,Economy,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-05,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,7:35 pm – 7:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$173,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-05,4:10 pm – 6:25 pm,Vueling,nonstop,1h 15m,LGW,ORY,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$104,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-04,2025-03-05,6:15 pm – 8:30 pm,Vueling,nonstop,1h 15m,LGW,ORY,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$104,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-04,2025-03-05,4:10 pm – 6:25 pm,Vueling,nonstop,1h 15m,LGW,ORY,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$111,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-04,2025-03-05,6:15 pm – 8:30 pm,Vueling,nonstop,1h 15m,LGW,ORY,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$111,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-04,2025-03-05,10:50 am – 1:10 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$100,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-04,2025-03-05,12:55 pm – 3:15 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$100,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-04,2025-03-05,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$100,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-04,2025-03-05,6:45 pm – 9:05 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:00 am – 7:10 am,Vueling,nonstop,1h 10m,ORY,LGW,$107,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-04,2025-03-05,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,7:35 pm – 7:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$160,"Economy, Standard",Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-05,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$108,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-04,2025-03-05,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$104,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-04,2025-03-05,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,7:35 pm – 7:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$175,Standard,OneTravel
+2025-03-02 18:35:14,2025-03-04,2025-03-05,4:10 pm – 6:25 pm,Vueling,nonstop,1h 15m,LGW,ORY,10:05 am – 10:25 am,easyJet,nonstop,1h 20m,CDG,LTN,$104,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-04,2025-03-05,8:15 am – 10:35 am,easyJet,nonstop,1h 20m,LGW,CDG,9:45 pm – 10:00 pm,easyJet,nonstop,1h 15m,CDG,LTN,$146,Standard,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-05,6:15 pm – 8:30 pm,Vueling,nonstop,1h 15m,LGW,ORY,10:05 am – 10:25 am,easyJet,nonstop,1h 20m,CDG,LTN,$104,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-04,2025-03-05,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$111,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-04,2025-03-05,10:50 am – 1:10 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:00 am – 7:10 am,Vueling,nonstop,1h 10m,ORY,LGW,$113,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-04,2025-03-05,12:55 pm – 3:15 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:00 am – 7:10 am,Vueling,nonstop,1h 10m,ORY,LGW,$113,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-04,2025-03-05,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$110,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-04,2025-03-05,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,2:35 pm – 2:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,$98,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-04,2025-03-05,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,7:00 am – 7:10 am,Vueling,nonstop,1h 10m,ORY,LGW,$121,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-04,2025-03-05,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,10:05 am – 10:25 am,easyJet,nonstop,1h 20m,CDG,LTN,$104,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-04,2025-03-05,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$105,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-04,2025-03-05,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,10:05 am – 10:25 am,easyJet,nonstop,1h 20m,CDG,LTN,$98,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-04,2025-03-05,8:15 am – 10:35 am,easyJet,nonstop,1h 20m,LGW,CDG,7:35 pm – 7:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$188,Standard,OneTravel
+2025-03-02 18:35:14,2025-03-04,2025-03-05,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,7:00 am – 7:10 am,Vueling,nonstop,1h 10m,ORY,LGW,$123,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-04,2025-03-05,2:05 pm – 4:25 pm,British Airways,nonstop,1h 20m,LGW,ORY,5:35 pm – 5:50 pm,easyJet,nonstop,1h 15m,CDG,LTN,Operated by Vueling,$182,As low as $17/mo or 0% APR,"Standard Economy, Standard",Orbitz
+2025-03-02 18:35:14,2025-03-04,2025-03-05,8:15 am – 10:35 am,easyJet,nonstop,1h 20m,LGW,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$125,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-04,2025-03-05,4:10 pm – 6:25 pm,British Airways,nonstop,1h 15m,LGW,ORY,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,Operated by Vueling,$164,"Basic Economy, Economy",eDreams
+2025-03-02 18:35:14,2025-03-04,2025-03-05,8:15 am – 10:35 am,easyJet,nonstop,1h 20m,LGW,CDG,7:00 am – 7:10 am,Vueling,nonstop,1h 10m,ORY,LGW,$138,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-04,2025-03-05,2:05 pm – 4:25 pm,British Airways,nonstop,1h 20m,LGW,ORY,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,Operated by Vueling,$164,"Basic Economy, Economy",eDreams
+2025-03-02 18:35:14,2025-03-04,2025-03-05,4:10 pm – 6:25 pm,British Airways,nonstop,1h 15m,LGW,ORY,9:10 am – 10:30 am,Eurostar,0 changes,2h 20m,PAR,LON,Operated by Vueling,2,$251,Standard Economy,Priceline
+2025-03-02 18:35:14,2025-03-04,2025-03-05,4:10 pm – 6:25 pm,Vueling,nonstop,1h 15m,LGW,ORY,7:00 am – 7:10 am,Iberia,nonstop,1h 10m,ORY,LGW,Operated by Vueling,$132,"Economy, Basic"
+2025-03-02 18:35:14,2025-03-04,2025-03-05,6:15 pm – 8:30 pm,Vueling,nonstop,1h 15m,LGW,ORY,7:00 am – 7:10 am,Iberia,nonstop,1h 10m,ORY,LGW,Operated by Vueling,$132,"Economy, Basic"
+2025-03-02 18:35:14,2025-03-04,2025-03-05,6:45 pm – 9:05 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:00 am – 7:10 am,Iberia,nonstop,1h 10m,ORY,LGW,Operated by Vueling,$128,"Standard, Basic"
+2025-03-02 18:35:14,2025-03-04,2025-03-06,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$106,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-06,6:45 pm – 9:05 pm,easyJet,nonstop,1h 20m,LTN,CDG,9:55 am – 10:15 am,easyJet,nonstop,1h 20m,CDG,LTN,$103,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-06,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$114,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-06,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,10:05 am – 10:15 am,easyJet,nonstop,1h 10m,CDG,LGW,$119,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-06,10:50 am – 1:10 pm,easyJet,nonstop,1h 20m,LTN,CDG,9:55 am – 10:15 am,easyJet,nonstop,1h 20m,CDG,LTN,$110,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-06,12:55 pm – 3:15 pm,easyJet,nonstop,1h 20m,LTN,CDG,9:55 am – 10:15 am,easyJet,nonstop,1h 20m,CDG,LTN,$110,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-06,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,5:40 pm – 5:45 pm,easyJet,nonstop,1h 05m,CDG,LGW,$126,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-06,6:45 pm – 9:05 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$121,Economy,Booking.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,10:05 am – 10:15 am,easyJet,nonstop,1h 10m,CDG,LGW,$127,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-06,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,5:40 pm – 5:45 pm,easyJet,nonstop,1h 05m,CDG,LGW,$134,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-06,4:10 pm – 6:25 pm,Vueling,nonstop,1h 15m,LGW,ORY,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$131,Economy,Booking.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,6:15 pm – 8:30 pm,Vueling,nonstop,1h 15m,LGW,ORY,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$131,Economy,Booking.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,10:50 am – 1:10 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$127,Economy,Booking.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,12:55 pm – 3:15 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$127,Economy,Booking.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,4:10 pm – 6:25 pm,Vueling,nonstop,1h 15m,LGW,ORY,6:15 pm – 6:20 pm,Vueling,nonstop,1h 05m,ORY,LGW,$137,Economy,Booking.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,6:45 pm – 9:05 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$121,Economy,Booking.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,10:05 am – 10:15 am,easyJet,nonstop,1h 10m,CDG,LGW,$127,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-06,4:10 pm – 6:25 pm,Vueling,nonstop,1h 15m,LGW,ORY,5:40 pm – 5:45 pm,easyJet,nonstop,1h 05m,CDG,LGW,$132,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,4:10 pm – 6:25 pm,Vueling,nonstop,1h 15m,LGW,ORY,10:05 am – 10:15 am,easyJet,nonstop,1h 10m,CDG,LGW,$127,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,6:15 pm – 8:30 pm,Vueling,nonstop,1h 15m,LGW,ORY,5:40 pm – 5:45 pm,easyJet,nonstop,1h 05m,CDG,LGW,$132,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,6:15 pm – 8:30 pm,Vueling,nonstop,1h 15m,LGW,ORY,10:05 am – 10:15 am,easyJet,nonstop,1h 10m,CDG,LGW,$127,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,6:45 pm – 9:05 pm,easyJet,nonstop,1h 20m,LTN,CDG,6:15 pm – 6:20 pm,Vueling,nonstop,1h 05m,ORY,LGW,$127,Economy,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,5:40 pm – 5:45 pm,easyJet,nonstop,1h 05m,CDG,LGW,$134,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-06,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$118,Economy,eDreams
+2025-03-02 18:35:14,2025-03-04,2025-03-06,4:10 pm – 6:25 pm,Vueling,nonstop,1h 15m,LGW,ORY,9:55 am – 10:15 am,easyJet,nonstop,1h 20m,CDG,LTN,$118,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,6:15 pm – 8:30 pm,Vueling,nonstop,1h 15m,LGW,ORY,9:55 am – 10:15 am,easyJet,nonstop,1h 20m,CDG,LTN,$118,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,6:45 pm – 9:05 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$118,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,6:15 pm – 6:20 pm,Vueling,nonstop,1h 05m,ORY,LGW,$129,Economy,eDreams
+2025-03-02 18:35:14,2025-03-04,2025-03-06,4:10 pm – 6:25 pm,Vueling,nonstop,1h 15m,LGW,ORY,12:05 pm – 12:15 pm,Vueling,nonstop,1h 10m,ORY,LGW,$129,Economy,eDreams
+2025-03-02 18:35:14,2025-03-04,2025-03-06,6:15 pm – 8:30 pm,Vueling,nonstop,1h 15m,LGW,ORY,12:05 pm – 12:15 pm,Vueling,nonstop,1h 10m,ORY,LGW,$129,Economy,eDreams
+2025-03-02 18:35:14,2025-03-04,2025-03-06,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,10:05 am – 10:15 am,easyJet,nonstop,1h 10m,CDG,LGW,$121,Economy,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,10:05 am – 10:15 am,easyJet,nonstop,1h 10m,CDG,LGW,$127,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-06,10:50 am – 1:10 pm,easyJet,nonstop,1h 20m,LTN,CDG,5:40 pm – 5:45 pm,easyJet,nonstop,1h 05m,CDG,LGW,$127,Economy,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,12:55 pm – 3:15 pm,easyJet,nonstop,1h 20m,LTN,CDG,5:40 pm – 5:45 pm,easyJet,nonstop,1h 05m,CDG,LGW,$127,Economy,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,5:40 pm – 5:45 pm,easyJet,nonstop,1h 05m,CDG,LGW,$127,Economy,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,6:45 pm – 9:05 pm,easyJet,nonstop,1h 20m,LTN,CDG,6:15 pm – 6:20 pm,Vueling,nonstop,1h 05m,ORY,LGW,$127,Economy,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,9:55 am – 10:15 am,easyJet,nonstop,1h 20m,CDG,LTN,$112,Economy,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,5:40 pm – 5:45 pm,easyJet,nonstop,1h 05m,CDG,LGW,$134,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-06,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$118,Economy,eDreams
+2025-03-02 18:35:14,2025-03-04,2025-03-06,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,9:55 am – 10:15 am,easyJet,nonstop,1h 20m,CDG,LTN,$113,Economy,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,6:15 pm – 6:20 pm,Vueling,nonstop,1h 05m,ORY,LGW,$129,Economy,eDreams
+2025-03-02 18:35:14,2025-03-04,2025-03-06,4:10 pm – 6:25 pm,Vueling,nonstop,1h 15m,LGW,ORY,12:05 pm – 12:15 pm,Vueling,nonstop,1h 10m,ORY,LGW,$129,Economy,eDreams
+2025-03-02 18:35:14,2025-03-04,2025-03-06,6:45 pm – 9:05 pm,easyJet,nonstop,1h 20m,LTN,CDG,4:35 pm – 4:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$129,Economy,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,6:15 pm – 8:30 pm,Vueling,nonstop,1h 15m,LGW,ORY,12:05 pm – 12:15 pm,Vueling,nonstop,1h 10m,ORY,LGW,$129,Economy,eDreams
+2025-03-02 18:35:14,2025-03-04,2025-03-06,10:50 am – 1:10 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$119,Economy,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,12:55 pm – 3:15 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$119,Economy,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$119,Economy,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,4:10 pm – 6:25 pm,Vueling,nonstop,1h 15m,LGW,ORY,4:35 pm – 4:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$135,Economy,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,6:15 pm – 8:30 pm,Vueling,nonstop,1h 15m,LGW,ORY,4:35 pm – 4:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$135,Economy,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,10:05 am – 10:15 am,easyJet,nonstop,1h 10m,CDG,LGW,$115,Economy,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,5:40 pm – 5:45 pm,easyJet,nonstop,1h 05m,CDG,LGW,$121,Economy,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,9:55 am – 10:15 am,easyJet,nonstop,1h 20m,CDG,LTN,$106,Economy,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,6:45 pm – 9:05 pm,easyJet,nonstop,1h 20m,LTN,CDG,12:05 pm – 12:15 pm,Vueling,nonstop,1h 10m,ORY,LGW,$127,Economy,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$112,Economy,eDreams
+2025-03-02 18:35:14,2025-03-04,2025-03-06,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,9:55 am – 10:15 am,easyJet,nonstop,1h 20m,CDG,LTN,$123,Economy,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,4:35 pm – 4:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$134,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-06,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,6:15 pm – 6:20 pm,Vueling,nonstop,1h 05m,ORY,LGW,$123,Economy,eDreams
+2025-03-02 18:35:14,2025-03-04,2025-03-06,10:50 am – 1:10 pm,easyJet,nonstop,1h 20m,LTN,CDG,6:15 pm – 6:20 pm,Vueling,nonstop,1h 05m,ORY,LGW,$134,Economy,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,12:55 pm – 3:15 pm,easyJet,nonstop,1h 20m,LTN,CDG,6:15 pm – 6:20 pm,Vueling,nonstop,1h 05m,ORY,LGW,$134,Economy,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,12:05 pm – 12:15 pm,Vueling,nonstop,1h 10m,ORY,LGW,$129,Economy,eDreams
+2025-03-02 18:35:14,2025-03-04,2025-03-06,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,6:15 pm – 6:20 pm,Vueling,nonstop,1h 05m,ORY,LGW,$134,Economy,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,9:55 am – 10:15 am,easyJet,nonstop,1h 20m,CDG,LTN,$119,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-06,10:50 am – 1:10 pm,easyJet,nonstop,1h 20m,LTN,CDG,4:35 pm – 4:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$135,Economy,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,12:55 pm – 3:15 pm,easyJet,nonstop,1h 20m,LTN,CDG,4:35 pm – 4:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$135,Economy,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,4:35 pm – 4:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$135,Economy,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,8:15 am – 10:35 am,easyJet,nonstop,1h 20m,LGW,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$131,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-06,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$130,Economy,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,10:05 am – 10:15 am,easyJet,nonstop,1h 10m,CDG,LGW,$131,Economy,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,4:35 pm – 4:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$142,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-06,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,6:15 pm – 6:20 pm,Vueling,nonstop,1h 05m,ORY,LGW,$142,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,5:40 pm – 5:45 pm,easyJet,nonstop,1h 05m,CDG,LGW,$137,Economy,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,6:45 pm – 9:05 pm,easyJet,nonstop,1h 20m,LTN,CDG,11:50 am – 12:05 pm,easyJet,nonstop,1h 15m,CDG,LTN,$128,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-06,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,12:05 pm – 12:15 pm,Vueling,nonstop,1h 10m,ORY,LGW,$123,Economy,eDreams
+2025-03-02 18:35:14,2025-03-04,2025-03-06,10:50 am – 1:10 pm,easyJet,nonstop,1h 20m,LTN,CDG,12:05 pm – 12:15 pm,Vueling,nonstop,1h 10m,ORY,LGW,$134,Economy,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,12:55 pm – 3:15 pm,easyJet,nonstop,1h 20m,LTN,CDG,12:05 pm – 12:15 pm,Vueling,nonstop,1h 10m,ORY,LGW,$134,Economy,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,8:15 am – 10:35 am,easyJet,nonstop,1h 20m,LGW,CDG,10:05 am – 10:15 am,easyJet,nonstop,1h 10m,CDG,LGW,$144,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-06,8:15 am – 10:35 am,easyJet,nonstop,1h 20m,LGW,CDG,5:40 pm – 5:45 pm,easyJet,nonstop,1h 05m,CDG,LGW,$151,Standard,OneTravel
+2025-03-02 18:35:14,2025-03-04,2025-03-06,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,11:50 am – 12:05 pm,easyJet,nonstop,1h 15m,CDG,LTN,$131,"Economy, Standard",Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,6:45 pm – 9:05 pm,easyJet,nonstop,1h 20m,LTN,CDG,9:25 pm – 9:40 pm,easyJet,nonstop,1h 15m,CDG,LTN,$126,Standard,OneTravel
+2025-03-02 18:35:14,2025-03-04,2025-03-06,8:15 am – 10:35 am,easyJet,nonstop,1h 20m,LGW,CDG,2:10 pm – 2:25 pm,Vueling,nonstop,1h 15m,ORY,LHR,$145,"Standard, Economy",Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,8:15 am – 10:35 am,easyJet,nonstop,1h 20m,LGW,CDG,9:55 am – 10:15 am,easyJet,nonstop,1h 20m,CDG,LTN,$138,Standard,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,4:10 pm – 6:25 pm,Vueling,nonstop,1h 15m,LGW,ORY,2:40 pm – 2:55 pm,easyJet,nonstop,1h 15m,CDG,LTN,$151,"Economy, Standard",Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,11:50 am – 12:05 pm,easyJet,nonstop,1h 15m,CDG,LTN,$148,Standard,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,6:15 pm – 8:30 pm,Vueling,nonstop,1h 15m,LGW,ORY,2:40 pm – 2:55 pm,easyJet,nonstop,1h 15m,CDG,LTN,$151,"Economy, Standard",Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,6:45 pm – 9:05 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:40 pm – 2:55 pm,easyJet,nonstop,1h 15m,CDG,LTN,$144,Standard,OneTravel
+2025-03-02 18:35:14,2025-03-04,2025-03-06,4:10 pm – 6:25 pm,Vueling,nonstop,1h 15m,LGW,ORY,9:25 pm – 9:40 pm,easyJet,nonstop,1h 15m,CDG,LTN,$134,"Economy, Standard",Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,11:50 am – 12:05 pm,easyJet,nonstop,1h 15m,CDG,LTN,$144,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-06,6:15 pm – 8:30 pm,Vueling,nonstop,1h 15m,LGW,ORY,9:25 pm – 9:40 pm,easyJet,nonstop,1h 15m,CDG,LTN,$134,"Economy, Standard",Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,8:15 am – 10:35 am,easyJet,nonstop,1h 20m,LGW,CDG,4:35 pm – 4:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$159,Standard,OneTravel
+2025-03-02 18:35:14,2025-03-04,2025-03-06,10:50 am – 1:10 pm,easyJet,nonstop,1h 20m,LTN,CDG,9:25 pm – 9:40 pm,easyJet,nonstop,1h 15m,CDG,LTN,$132,Standard,OneTravel
+2025-03-02 18:35:14,2025-03-04,2025-03-06,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,2:40 pm – 2:55 pm,easyJet,nonstop,1h 15m,CDG,LTN,$151,"Economy, Standard",Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,12:55 pm – 3:15 pm,easyJet,nonstop,1h 20m,LTN,CDG,9:25 pm – 9:40 pm,easyJet,nonstop,1h 15m,CDG,LTN,$132,Standard,OneTravel
+2025-03-02 18:35:14,2025-03-04,2025-03-06,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,9:25 pm – 9:40 pm,easyJet,nonstop,1h 15m,CDG,LTN,$134,"Economy, Standard",Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,10:50 am – 1:10 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:40 pm – 2:55 pm,easyJet,nonstop,1h 15m,CDG,LTN,$150,Standard,OneTravel
+2025-03-02 18:35:14,2025-03-04,2025-03-06,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,2:40 pm – 2:55 pm,easyJet,nonstop,1h 15m,CDG,LTN,$145,"Economy, Standard",Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,12:55 pm – 3:15 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:40 pm – 2:55 pm,easyJet,nonstop,1h 15m,CDG,LTN,$150,Standard,OneTravel
+2025-03-02 18:35:14,2025-03-04,2025-03-06,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,9:25 pm – 9:40 pm,easyJet,nonstop,1h 15m,CDG,LTN,$134,Standard,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,2:40 pm – 2:55 pm,easyJet,nonstop,1h 15m,CDG,LTN,$152,Standard,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,6:45 pm – 9:05 pm,easyJet,nonstop,1h 20m,LTN,CDG,9:10 pm – 9:15 pm,easyJet,nonstop,1h 05m,CDG,LGW,$148,Standard,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,9:25 pm – 9:40 pm,easyJet,nonstop,1h 15m,CDG,LTN,$128,"Economy, Standard",Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,9:25 pm – 9:40 pm,easyJet,nonstop,1h 15m,CDG,LTN,$145,Standard,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,4:10 pm – 6:25 pm,Vueling,nonstop,1h 15m,LGW,ORY,9:10 pm – 9:15 pm,easyJet,nonstop,1h 05m,CDG,LGW,$154,"Economy, Standard",Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,2:40 pm – 2:55 pm,easyJet,nonstop,1h 15m,CDG,LTN,$163,Standard,Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,6:15 pm – 8:30 pm,Vueling,nonstop,1h 15m,LGW,ORY,9:10 pm – 9:15 pm,easyJet,nonstop,1h 05m,CDG,LGW,$154,"Economy, Standard",Trip.com
+2025-03-02 18:35:14,2025-03-04,2025-03-06,7:10 am – 9:30 am,easyJet,nonstop,1h 20m,LTN,CDG,9:25 pm – 9:40 pm,easyJet,nonstop,1h 15m,CDG,LTN,$142,Standard,OneTravel
+2025-03-02 18:35:14,2025-03-04,2025-03-07,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$106,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-07,6:45 pm – 9:05 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:30 pm – 2:45 pm,easyJet,nonstop,1h 15m,CDG,LTN,$105,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-07,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$114,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-07,4:10 pm – 6:25 pm,Vueling,nonstop,1h 15m,LGW,ORY,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$104,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-04,2025-03-07,6:15 pm – 8:30 pm,Vueling,nonstop,1h 15m,LGW,ORY,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$104,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-04,2025-03-07,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,4:35 pm – 4:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$119,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-07,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,5:55 pm – 5:55 pm,easyJet,nonstop,1h 00m,CDG,LGW,$126,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-07,4:10 pm – 6:25 pm,Vueling,nonstop,1h 15m,LGW,ORY,5:55 pm – 5:55 pm,easyJet,nonstop,1h 00m,CDG,LGW,$132,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-04,2025-03-07,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,4:35 pm – 4:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$127,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-07,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$104,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-04,2025-03-07,4:10 pm – 6:25 pm,Vueling,nonstop,1h 15m,LGW,ORY,4:35 pm – 4:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$117,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-04,2025-03-07,4:10 pm – 6:25 pm,Vueling,nonstop,1h 15m,LGW,ORY,7:20 pm – 7:25 pm,Vueling,nonstop,1h 05m,ORY,LGW,$127,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-04,2025-03-07,6:15 pm – 8:30 pm,Vueling,nonstop,1h 15m,LGW,ORY,7:20 pm – 7:25 pm,Vueling,nonstop,1h 05m,ORY,LGW,$127,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-04,2025-03-07,6:15 pm – 8:30 pm,Vueling,nonstop,1h 15m,LGW,ORY,4:35 pm – 4:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$127,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-04,2025-03-07,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,5:55 pm – 5:55 pm,easyJet,nonstop,1h 00m,CDG,LGW,$134,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-07,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,7:20 pm – 7:25 pm,Vueling,nonstop,1h 05m,ORY,LGW,$122,Economy,eDreams
+2025-03-02 18:35:14,2025-03-04,2025-03-07,4:10 pm – 6:25 pm,Vueling,nonstop,1h 15m,LGW,ORY,12:30 pm – 12:40 pm,Vueling,nonstop,1h 10m,ORY,LGW,$122,Economy,eDreams
+2025-03-02 18:35:14,2025-03-04,2025-03-07,6:15 pm – 8:30 pm,Vueling,nonstop,1h 15m,LGW,ORY,12:30 pm – 12:40 pm,Vueling,nonstop,1h 10m,ORY,LGW,$122,Economy,eDreams
+2025-03-02 18:35:14,2025-03-04,2025-03-07,10:50 am – 1:10 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:30 pm – 2:45 pm,easyJet,nonstop,1h 15m,CDG,LTN,$111,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-07,12:55 pm – 3:15 pm,easyJet,nonstop,1h 20m,LTN,CDG,2:30 pm – 2:45 pm,easyJet,nonstop,1h 15m,CDG,LTN,$111,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-07,6:45 pm – 9:05 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:20 pm – 7:25 pm,Vueling,nonstop,1h 05m,ORY,LGW,$110,"Standard, Economy"
+2025-03-02 18:35:14,2025-03-04,2025-03-07,6:45 pm – 9:05 pm,easyJet,nonstop,1h 20m,LTN,CDG,5:00 pm – 5:15 pm,easyJet,nonstop,1h 15m,CDG,LTN,$111,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-07,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,10:05 am – 10:15 am,easyJet,nonstop,1h 10m,CDG,LGW,$119,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-07,4:10 pm – 6:25 pm,Vueling,nonstop,1h 15m,LGW,ORY,2:30 pm – 2:45 pm,easyJet,nonstop,1h 15m,CDG,LTN,$109,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-04,2025-03-07,6:15 pm – 8:30 pm,Vueling,nonstop,1h 15m,LGW,ORY,2:30 pm – 2:45 pm,easyJet,nonstop,1h 15m,CDG,LTN,$109,"Economy, Standard"
+2025-03-02 18:35:14,2025-03-04,2025-03-07,6:45 pm – 9:05 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$120,Economy,Booking.com
+2025-03-02 18:35:14,2025-03-04,2025-03-07,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,10:05 am – 10:15 am,easyJet,nonstop,1h 10m,CDG,LGW,$127,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-07,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,4:35 pm – 4:40 pm,easyJet,nonstop,1h 05m,CDG,LGW,$127,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-04,2025-03-07,4:10 pm – 6:25 pm,Vueling,nonstop,1h 15m,LGW,ORY,1:40 pm – 1:45 pm,easyJet,nonstop,1h 05m,CDG,SEN,$133,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-04,2025-03-07,6:15 pm – 8:30 pm,Vueling,nonstop,1h 15m,LGW,ORY,1:40 pm – 1:45 pm,easyJet,nonstop,1h 05m,CDG,SEN,$133,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-04,2025-03-07,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,7:20 am – 7:30 am,easyJet,nonstop,1h 10m,CDG,LGW,$109,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-04,2025-03-07,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,12:30 pm – 12:40 pm,Vueling,nonstop,1h 10m,ORY,LGW,$122,Economy,eDreams
+2025-03-02 18:35:14,2025-03-04,2025-03-07,3:15 pm – 5:45 pm,Vueling,nonstop,1h 30m,LHR,ORY,7:20 pm – 7:25 pm,Vueling,nonstop,1h 05m,ORY,LGW,$116,Economy,eDreams
+2025-03-02 18:35:14,2025-03-04,2025-03-07,6:45 pm – 9:05 pm,easyJet,nonstop,1h 20m,LTN,CDG,9:55 am – 10:20 am,easyJet,nonstop,1h 25m,CDG,LTN,$105,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-07,10:50 am – 1:10 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:20 pm – 7:25 pm,Vueling,nonstop,1h 05m,ORY,LGW,$129,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-04,2025-03-07,12:55 pm – 3:15 pm,easyJet,nonstop,1h 20m,LTN,CDG,7:20 pm – 7:25 pm,Vueling,nonstop,1h 05m,ORY,LGW,$129,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-04,2025-03-07,4:45 pm – 7:05 pm,easyJet,nonstop,1h 20m,LGW,CDG,7:20 pm – 7:25 pm,Vueling,nonstop,1h 05m,ORY,LGW,$129,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-04,2025-03-07,6:45 pm – 9:05 pm,easyJet,nonstop,1h 20m,LTN,CDG,12:30 pm – 12:40 pm,Vueling,nonstop,1h 10m,ORY,LGW,$123,Economy,Mytrip
+2025-03-02 18:35:14,2025-03-04,2025-03-07,10:50 am – 1:10 pm,easyJet,nonstop,1h 20m,LTN,CDG,5:00 pm – 5:15 pm,easyJet,nonstop,1h 15m,CDG,LTN,$118,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-07,12:55 pm – 3:15 pm,easyJet,nonstop,1h 20m,LTN,CDG,5:00 pm – 5:15 pm,easyJet,nonstop,1h 15m,CDG,LTN,$118,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-07,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,7:20 pm – 7:25 pm,Vueling,nonstop,1h 05m,ORY,LGW,$137,Economy,Mytrip
+2025-03-02 18:35:14,2025-03-04,2025-03-07,2:05 pm – 4:25 pm,Vueling,nonstop,1h 20m,LGW,ORY,2:30 pm – 2:45 pm,easyJet,nonstop,1h 15m,CDG,LTN,$119,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-04,2025-03-07,4:10 pm – 6:25 pm,Vueling,nonstop,1h 15m,LGW,ORY,5:00 pm – 5:15 pm,easyJet,nonstop,1h 15m,CDG,LTN,$125,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-04,2025-03-07,6:15 pm – 8:30 pm,Vueling,nonstop,1h 15m,LGW,ORY,5:00 pm – 5:15 pm,easyJet,nonstop,1h 15m,CDG,LTN,$125,Economy,Kiwi.com
+2025-03-02 18:35:14,2025-03-04,2025-03-07,6:45 pm – 9:05 pm,easyJet,nonstop,1h 20m,LTN,CDG,5:55 pm – 5:55 pm,easyJet,nonstop,1h 00m,CDG,LGW,$138,Economy,Booking.com
+2025-03-02 18:35:14,2025-03-04,2025-03-07,12:55 pm – 3:15 pm,easyJet,nonstop,1h 20m,LTN,CDG,5:00 pm – 5:15 pm,easyJet,nonstop,1h 15m,CDG,LTN,$118,Standard,easyJet
+2025-03-02 18:35:14,2025-03-04,2025-03-07,1:45 pm – 4:00 pm,easyJet,nonstop,1h 15m,LGW,CDG,7:20 pm – 7:25 pm,Vueling,nonstop,1h 05m,ORY,LGW,$137,Economy,Mytrip
