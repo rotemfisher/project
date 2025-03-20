@@ -1,0 +1,23 @@
+Site,Model,Train R²,Train MSE,Train RMSE,Train MAE,Test R²,Test MSE,Test RMSE,Test MAE,Site,Model,Train R²,Train MSE,Train RMSE,Train MAE,Test R²,Test MSE,Test RMSE,Test MAE
+Kiwi,Linear Regression,0.233,24705.11,157.18,126.13,0.234,24792.4,157.46,126.19,Momondo,Linear Regression,0.3,3893.04,62.39,45.2,0.305,3812.84,61.75,45.06
+Kiwi,Linear Regression (StandardScaler),0.233,24705.11,157.18,126.13,0.234,24792.4,157.46,126.19,Momondo,Linear Regression (StandardScaler),0.3,3893.04,62.39,45.2,0.305,3812.84,61.75,45.06
+Kiwi,Linear Regression (MinMaxScaler),0.233,24705.11,157.18,126.13,0.234,24792.4,157.46,126.19,Momondo,Linear Regression (MinMaxScaler),0.3,3893.04,62.39,45.2,0.305,3812.84,61.75,45.06
+Kiwi,Decision Tree (max_depth=3),0.404,19204.47,138.58,106.14,0.404,19267.87,138.81,106.1,Momondo,Decision Tree (max_depth=3),0.395,3366.31,58.02,40.61,0.398,3304.58,57.49,40.52
+Kiwi,Decision Tree (max_depth=5),0.518,15544.09,124.68,95.67,0.52,15534.21,124.64,95.41,Momondo,Decision Tree (max_depth=5),0.465,2978.11,54.57,38.29,0.46,2964.55,54.45,38.34
+Kiwi,Decision Tree (max_depth=7),0.584,13415.05,115.82,88.77,0.584,13444.12,115.95,88.75,Momondo,Decision Tree (max_depth=7),0.572,2380.58,48.79,34.46,0.563,2396.53,48.95,34.6
+Kiwi,GPR with RBF(length_scale=1),0.986,630.98,25.12,7.16,-9.299,333182.71,577.22,536.64,Momondo,GPR with RBF(length_scale=1),1,2.81,1.68,0.32,-4.575,30594.39,174.91,154.33
+Kiwi,GPR with DotProduct(sigma_0=1),0.353,28612.96,169.15,141.82,0.176,26650.99,163.25,129.06,Momondo,GPR with DotProduct(sigma_0=1),0.241,10042.46,100.21,51.63,0.159,4615.91,67.94,51.26
+Kiwi,Random Forest (max_depth=3),0.406,19149.25,138.38,105.94,0.406,19209,138.6,105.89,Momondo,Random Forest (max_depth=3),0.398,3349.48,57.87,40.51,0.401,3288.06,57.34,40.42
+Kiwi,Random Forest (max_depth=5),0.524,15356.38,123.92,94.97,0.526,15337.16,123.84,94.71,Momondo,Random Forest (max_depth=5),0.477,2907.87,53.92,37.86,0.471,2904.65,53.89,37.93
+Kiwi,Random Forest (max_depth=8),0.619,12276.29,110.8,84.8,0.618,12367.04,111.21,85.03,Momondo,Random Forest (max_depth=8),0.616,2138.27,46.24,32.86,0.608,2150.08,46.37,32.93
+Kiwi,RandomForestRegressor,0.694,9849.21,99.24,75.55,0.681,10332.16,101.65,77.42,Momondo,RandomForestRegressor,0.69,1722.53,41.5,29.56,0.671,1803.79,42.47,30.11
+Kiwi,LinearRegression,0.233,24705.11,157.18,126.13,0.234,24792.4,157.46,126.19,Momondo,LinearRegression,0.3,3893.04,62.39,45.2,0.305,3812.84,61.75,45.06
+Kiwi,KNN Regressor (n_neighbors=3),0.601,12873.78,113.46,85.44,0.581,13540.48,116.36,88.17,Momondo,KNN Regressor (n_neighbors=3),0.579,2322.13,48.19,33.88,0.562,2454.32,49.54,34.56
+Kiwi,KNN Regressor (n_neighbors=5),0.634,11809.25,108.67,82.27,0.618,12343.79,111.1,84.42,Momondo,KNN Regressor (n_neighbors=5),0.625,2069.28,45.49,32.17,0.608,2194.58,46.85,32.8
+Kiwi,KNN Regressor (n_neighbors=10),0.66,10947.72,104.63,79.67,0.645,11488.55,107.18,81.47,Momondo,KNN Regressor (n_neighbors=10),0.646,1951.33,44.17,31.19,0.631,2069.37,45.49,31.73
+Kiwi,Kiwi KNeighborsRegressor Best Performance by GridSearch,0.675,10487.96,102.41,77.19,0.653,11239.23,106.02,80.38,Momondo,Momondo KNeighborsRegressor Best Performance by GridSearch,0.69,1722.73,41.51,29.57,0.671,1804.72,42.48,30.11
+Kiwi,"MLP Regressor (layers=(64,))",0.518,15559.52,124.74,97.69,0.516,15581.69,124.83,97.95,Momondo,"MLP Regressor (layers=(64,))",0.502,2745.01,52.39,38.69,0.5,2800.96,52.92,38.7
+Kiwi,"MLP Regressor (layers=(64, 32))",0.602,12868.65,113.44,87.19,0.596,12989.36,113.97,87.74,Momondo,"MLP Regressor (layers=(64, 32))",0.596,2227.52,47.2,33.64,0.588,2308.45,48.05,33.85
+Kiwi,"MLP Regressor (layers=(100, 50, 25))",0.626,12084.07,109.93,84.53,0.619,12267.21,110.76,85.28,Momondo,"MLP Regressor (layers=(100, 50, 25))",0.618,2105.95,45.89,32.96,0.612,2177.21,46.66,33.14
+Kiwi,Hist Gradient Boosting,0.664,10861.17,104.22,80.31,0.658,11002.32,104.89,80.91,Momondo,Hist Gradient Boosting,0.661,1881.79,43.38,31.22,0.651,1929.72,43.93,31.5
+Kiwi,TTT division,0.619,12283.08,110.83,84.81,0.617,12375.55,111.25,85.04,Momondo,TTT division,0.615,2128.87,46.14,32.84,0.61,2167.47,46.56,32.95
