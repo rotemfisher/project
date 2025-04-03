@@ -1,0 +1,71 @@
+Snap Date,Dep Date,Return Date,Outbound,Dep Time,Dep Duration,Dep Arrival,From,Stops,Landing,Inbound,Back Time,Back Duration,Back Arrival,From,Stops,Landing,Dep Company,Back Company,Price
+2025-03-26,2025-03-27,2025-03-28,Outbound,13:00,1h 20m,15:20,LGW,Direct,ORY,Inbound,09:55,1h 25m,10:20,CDG,Direct,LTN,Vueling,₪ 526
+2025-03-26,2025-03-27,2025-03-28,Outbound,14:10,1h 20m,16:30,LGW,Direct,ORY,Inbound,09:55,1h 25m,10:20,CDG,Direct,LTN,Vueling,₪ 526
+2025-03-26,2025-03-27,2025-03-28,Outbound,13:00,1h 20m,15:20,LGW,Direct,ORY,Inbound,07:20,1h 10m,07:30,CDG,Direct,LGW,Vueling,₪ 556
+2025-03-26,2025-03-27,2025-03-28,Outbound,14:10,1h 20m,16:30,LGW,Direct,ORY,Inbound,07:20,1h 10m,07:30,CDG,Direct,LGW,Vueling,₪ 556
+2025-03-26,2025-03-27,2025-03-28,Outbound,15:15,1h 30m,17:45,LHR,Direct,ORY,Inbound,09:55,1h 25m,10:20,CDG,Direct,LTN,Vueling,₪ 547
+2025-03-26,2025-03-27,2025-03-28,Outbound,13:00,1h 20m,15:20,LGW,Direct,ORY,Inbound,17:00,1h 15m,17:15,CDG,Direct,LTN,Vueling,₪ 575
+2025-03-26,2025-03-27,2025-03-28,Outbound,13:00,1h 20m,15:20,LGW,Direct,ORY,Inbound,14:30,1h 15m,14:45,CDG,Direct,LTN,Vueling,₪ 575
+2025-03-26,2025-03-27,2025-03-28,Outbound,14:10,1h 20m,16:30,LGW,Direct,ORY,Inbound,17:00,1h 15m,17:15,CDG,Direct,LTN,Vueling,₪ 575
+2025-03-26,2025-03-27,2025-03-28,Outbound,14:10,1h 20m,16:30,LGW,Direct,ORY,Inbound,14:30,1h 15m,14:45,CDG,Direct,LTN,Vueling,₪ 575
+2025-03-26,2025-03-27,2025-03-28,Outbound,15:15,1h 30m,17:45,LHR,Direct,ORY,Inbound,07:20,1h 10m,07:30,CDG,Direct,LGW,Vueling,₪ 577
+2025-03-26,2025-03-27,2025-03-28,Outbound,14:50,1h 15m,17:05,LGW,Direct,CDG,Inbound,09:55,1h 25m,10:20,CDG,Direct,LTN,Vueling,₪ 599
+2025-03-26,2025-03-27,2025-03-28,Outbound,15:15,1h 30m,17:45,LHR,Direct,ORY,Inbound,14:30,1h 15m,14:45,CDG,Direct,LTN,Vueling,₪ 597
+2025-03-26,2025-03-27,2025-03-28,Outbound,15:15,1h 30m,17:45,LHR,Direct,ORY,Inbound,17:00,1h 15m,17:15,CDG,Direct,LTN,Vueling,₪ 597
+2025-03-26,2025-03-27,2025-03-28,Outbound,13:00,1h 20m,15:20,LGW,Direct,ORY,Inbound,16:35,1h 05m,16:40,CDG,Direct,LGW,Vueling,₪ 609
+2025-03-26,2025-03-27,2025-03-28,Outbound,14:10,1h 20m,16:30,LGW,Direct,ORY,Inbound,16:35,1h 05m,16:40,CDG,Direct,LGW,Vueling,₪ 609
+2025-03-26,2025-03-27,2025-03-28,Outbound,18:10,1h 20m,20:30,LGW,Direct,CDG,Inbound,09:55,1h 25m,10:20,CDG,Direct,LTN,Vueling,₪ 599
+2025-03-26,2025-03-27,2025-03-28,Outbound,13:00,1h 20m,15:20,LGW,Direct,ORY,Inbound,13:40,1h 05m,13:45,CDG,Direct,SEN,Vueling,₪ 624
+2025-03-26,2025-03-27,2025-03-28,Outbound,14:10,1h 20m,16:30,LGW,Direct,ORY,Inbound,13:40,1h 05m,13:45,CDG,Direct,SEN,Vueling,₪ 624
+2025-03-26,2025-03-27,2025-03-28,Outbound,19:05,1h 15m,21:20,LGW,Direct,ORY,Inbound,09:55,1h 25m,10:20,CDG,Direct,LTN,Vueling,₪ 620
+2025-03-26,2025-03-27,2025-03-28,Outbound,14:50,1h 15m,17:05,LGW,Direct,CDG,Inbound,07:20,1h 10m,07:30,CDG,Direct,LGW,Vueling,₪ 629
+2025-03-26,2025-03-27,2025-03-28,Outbound,18:10,1h 20m,20:30,LGW,Direct,CDG,Inbound,07:20,1h 10m,07:30,CDG,Direct,LGW,Vueling,₪ 629
+2025-03-26,2025-03-27,2025-03-28,Outbound,15:15,1h 30m,17:45,LHR,Direct,ORY,Inbound,16:35,1h 05m,16:40,CDG,Direct,LGW,Vueling,₪ 631
+2025-03-26,2025-03-27,2025-03-28,Outbound,14:10,1h 20m,16:30,LGW,Direct,ORY,Inbound,17:55,1h,17:55,CDG,Direct,LGW,Vueling,₪ 643
+2025-03-26,2025-03-27,2025-03-28,Outbound,13:00,1h 20m,15:20,LGW,Direct,ORY,Inbound,17:55,1h,17:55,CDG,Direct,LGW,Vueling,₪ 643
+2025-03-26,2025-03-27,2025-03-28,Outbound,13:50,1h 15m,16:05,LGW,Direct,CDG,Inbound,09:55,1h 25m,10:20,CDG,Direct,LTN,Vueling,₪ 635
+2025-03-26,2025-03-27,2025-03-28,Outbound,14:10,1h 20m,16:30,LGW,Direct,ORY,Inbound,19:20,1h 05m,19:25,ORY,Direct,LGW,Vueling,"Guarantee available
++₪ 84
+₪ 644"
+2025-03-26,2025-03-27,2025-03-28,Outbound,13:00,1h 20m,15:20,LGW,Direct,ORY,Inbound,19:20,1h 05m,19:25,ORY,Direct,LGW,Vueling,"Guarantee available
++₪ 84
+₪ 644"
+2025-03-26,2025-03-27,2025-03-28,Outbound,13:00,1h 20m,15:20,LGW,Direct,ORY,Inbound,10:05,1h 10m,10:15,CDG,Direct,LGW,Vueling,₪ 643
+2025-03-26,2025-03-27,2025-03-28,Outbound,14:10,1h 20m,16:30,LGW,Direct,ORY,Inbound,10:05,1h 10m,10:15,CDG,Direct,LGW,Vueling,₪ 643
+2025-03-26,2025-03-27,2025-03-28,Outbound,15:15,1h 30m,17:45,LHR,Direct,ORY,Inbound,13:40,1h 05m,13:45,CDG,Direct,SEN,Vueling,₪ 646
+2025-03-26,2025-03-27,2025-03-28,Outbound,19:05,1h 15m,21:20,LGW,Direct,ORY,Inbound,07:20,1h 10m,07:30,CDG,Direct,LGW,Vueling,₪ 650
+2025-03-26,2025-03-27,2025-03-28,Outbound,18:10,1h 20m,20:30,LGW,Direct,CDG,Inbound,17:00,1h 15m,17:15,CDG,Direct,LTN,Vueling,₪ 648
+2025-03-26,2025-03-27,2025-03-28,Outbound,18:10,1h 20m,20:30,LGW,Direct,CDG,Inbound,14:30,1h 15m,14:45,CDG,Direct,LTN,Vueling,₪ 648
+2025-03-26,2025-03-27,2025-03-28,Outbound,14:50,1h 15m,17:05,LGW,Direct,CDG,Inbound,14:30,1h 15m,14:45,CDG,Direct,LTN,Vueling,₪ 648
+2025-03-26,2025-03-27,2025-03-28,Outbound,14:50,1h 15m,17:05,LGW,Direct,CDG,Inbound,17:00,1h 15m,17:15,CDG,Direct,LTN,Vueling,₪ 648
+2025-03-26,2025-03-27,2025-03-28,Outbound,07:00,1h 20m,09:20,LGW,Direct,CDG,Inbound,09:55,1h 25m,10:20,CDG,Direct,LTN,Vueling,₪ 645
+2025-03-26,2025-03-27,2025-03-28,Outbound,14:50,1h 15m,17:05,LGW,Direct,CDG,Inbound,19:20,1h 05m,19:25,ORY,Direct,LGW,Vueling,₪ 665
+2025-03-26,2025-03-27,2025-03-28,Outbound,13:50,1h 15m,16:05,LGW,Direct,CDG,Inbound,07:20,1h 10m,07:30,CDG,Direct,LGW,Vueling,₪ 665
+2025-03-26,2025-03-27,2025-03-28,Outbound,18:10,1h 20m,20:30,LGW,Direct,CDG,Inbound,19:20,1h 05m,19:25,ORY,Direct,LGW,Vueling,₪ 665
+2025-03-26,2025-03-27,2025-03-28,Outbound,14:10,1h 20m,16:30,LGW,Direct,ORY,Inbound,14:10,1h 15m,14:25,ORY,Direct,LHR,Vueling,"Guarantee available
++₪ 85
+₪ 662"
+2025-03-26,2025-03-27,2025-03-28,Outbound,13:00,1h 20m,15:20,LGW,Direct,ORY,Inbound,14:10,1h 15m,14:25,ORY,Direct,LHR,Vueling,"Guarantee available
++₪ 85
+₪ 662"
+2025-03-26,2025-03-27,2025-03-28,Outbound,08:15,1h 20m,10:35,LGW,Direct,CDG,Inbound,09:55,1h 25m,10:20,CDG,Direct,LTN,Vueling,₪ 655
+2025-03-26,2025-03-27,2025-03-28,Outbound,15:15,1h 30m,17:45,LHR,Direct,ORY,Inbound,17:55,1h,17:55,CDG,Direct,LGW,Vueling,₪ 665
+2025-03-26,2025-03-27,2025-03-28,Outbound,15:15,1h 30m,17:45,LHR,Direct,ORY,Inbound,19:20,1h 05m,19:25,ORY,Direct,LGW,Vueling,"Guarantee available
++₪ 86
+₪ 666"
+2025-03-26,2025-03-27,2025-03-28,Outbound,15:15,1h 30m,17:45,LHR,Direct,ORY,Inbound,10:05,1h 10m,10:15,CDG,Direct,LGW,Vueling,₪ 665
+2025-03-26,2025-03-27,2025-03-28,Outbound,19:05,1h 15m,21:20,LGW,Direct,ORY,Inbound,17:00,1h 15m,17:15,CDG,Direct,LTN,Vueling,₪ 669
+2025-03-26,2025-03-27,2025-03-28,Outbound,19:05,1h 15m,21:20,LGW,Direct,ORY,Inbound,14:30,1h 15m,14:45,CDG,Direct,LTN,Vueling,₪ 669
+2025-03-26,2025-03-27,2025-03-28,Outbound,14:50,1h 15m,17:05,LGW,Direct,CDG,Inbound,16:35,1h 05m,16:40,CDG,Direct,LGW,Vueling,₪ 682
+2025-03-26,2025-03-27,2025-03-28,Outbound,07:00,1h 20m,09:20,LGW,Direct,CDG,Inbound,07:20,1h 10m,07:30,CDG,Direct,LGW,Vueling,₪ 675
+2025-03-26,2025-03-27,2025-03-28,Outbound,18:10,1h 20m,20:30,LGW,Direct,CDG,Inbound,16:35,1h 05m,16:40,CDG,Direct,LGW,Vueling,₪ 682
+2025-03-26,2025-03-27,2025-03-28,Outbound,14:50,1h 15m,17:05,LGW,Direct,CDG,Inbound,14:10,1h 15m,14:25,ORY,Direct,LHR,Vueling,₪ 683
+2025-03-26,2025-03-27,2025-03-28,Outbound,18:10,1h 20m,20:30,LGW,Direct,CDG,Inbound,14:10,1h 15m,14:25,ORY,Direct,LHR,Vueling,₪ 683
+2025-03-26,2025-03-27,2025-03-28,Outbound,07:05,1h 20m,09:25,LTN,Direct,CDG,Inbound,09:55,1h 25m,10:20,CDG,Direct,LTN,Vueling,₪ 676
+2025-03-26,2025-03-27,2025-03-28,Outbound,13:50,1h 15m,16:05,LGW,Direct,CDG,Inbound,17:00,1h 15m,17:15,CDG,Direct,LTN,Vueling,₪ 684
+2025-03-26,2025-03-27,2025-03-28,Outbound,13:50,1h 15m,16:05,LGW,Direct,CDG,Inbound,14:30,1h 15m,14:45,CDG,Direct,LTN,Vueling,₪ 684
+2025-03-26,2025-03-27,2025-03-28,Outbound,08:15,1h 20m,10:35,LGW,Direct,CDG,Inbound,07:20,1h 10m,07:30,CDG,Direct,LGW,Vueling,₪ 685
+2025-03-26,2025-03-27,2025-03-28,Outbound,14:50,1h 15m,17:05,LGW,Direct,CDG,Inbound,13:40,1h 05m,13:45,CDG,Direct,SEN,Vueling,₪ 697
+2025-03-26,2025-03-27,2025-03-28,Outbound,15:15,1h 30m,17:45,LHR,Direct,ORY,Inbound,14:10,1h 15m,14:25,ORY,Direct,LHR,Vueling,"Guarantee available
++₪ 88
+₪ 683"
